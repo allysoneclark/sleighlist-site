@@ -17,13 +17,13 @@
 <p>Sleigh List is made by Allyson Clark, an independent developer (“we”, “us”). This policy explains what the Sleigh List app and this website collect, why, and the choices you have. The short version: no ads, no tracking, no selling data. We keep only what the app needs to save your list and your season pass.</p>
 
 <h2>What we collect</h2>
-<p><strong>Without an account.</strong> You can browse movies, community ratings and where to stream without signing up. The app creates an anonymous account ID behind the scenes so your list can be saved. It is not linked to your name or email.</p>
+<p><strong>Without an account.</strong> You can browse movies, community ratings and where to stream without signing up. The app creates an anonymous account ID behind the scenes so your list can be saved. It is not linked to your name or email. Like most online services, Supabase records your device’s IP address and basic device information (such as the app and system version) when the app signs in, for security and to keep your session working.</p>
 <p><strong>Your list.</strong> If you have a season pass, we store what you add: movies you have watched (with dates and how many times), your star ratings, your private notes and the movies you save. Notes are visible only to you.</p>
 <p><strong>Community ratings.</strong> Your star ratings count toward each movie’s average rating. Other people see only the average and the number of ratings, never who rated what.</p>
 <p><strong>Season pass purchases.</strong> When you buy or restore a pass, we receive from Apple the purchase’s transaction ID, product, date and whether it was a test purchase, so we can confirm it and unlock the pass. We never see your payment details. Apple handles all payments.</p>
 <p><strong>Backup with Sign in with Apple (optional).</strong> If you back up your list, we receive an identifier from Apple and, if you choose to share it, your email address. If you choose “Hide My Email”, we receive a private relay address from Apple instead. We use these only to sign you in and restore your list. We also keep a token Apple issues at sign-in, used only to cancel your Sign in with Apple authorization if you delete your account. We do not send you marketing email.</p>
 <p><strong>On your phone only.</strong> Your country setting and the streaming services you pick in filters are stored on your device and are not sent to us.</p>
-<p><strong>Anonymous usage stats.</strong> To see whether Sleigh List is working, the app counts a few events: first opening the app, opening it again (and how many days after installing), viewing the season pass screen, tapping buy, and completing a purchase. These are sent to our own database with a random install ID that is not linked to your account, your Apple ID, your list or any advertising ID. We use them only as totals. You can turn this off at any time in Settings → Share anonymous usage stats.</p>
+<p><strong>Anonymous usage stats.</strong> To see whether Sleigh List is working, the app counts a few events: first opening the app, opening it again (and how many days after installing), viewing the season pass screen, tapping buy, and completing a purchase. These are sent to our own database with a random install ID that is not linked to your account, your Apple ID, your list or any advertising ID. We use them only as totals. You can turn this off at any time in Settings → Share anonymous usage stats. Turning it off stops new stats from being sent. Stats already sent can’t be traced back to you, so they can’t be picked out and deleted; they are deleted automatically after 2 years.</p>
 <p><strong>No advertising or tracking.</strong> The app has no ads, no advertising IDs and no third-party analytics or tracking tools, and does not track you across other apps or websites.</p>
 
 <h2>Services that help run Sleigh List</h2>
@@ -33,10 +33,13 @@
 <li><strong>GitHub Pages</strong> hosts this website and the movie list file the app downloads.</li>
 <li><strong>Movie of the Night</strong> (Streaming Availability API) provides streaming information and movie posters. Posters load from their servers, which therefore see your device’s IP address, as any website would. We do not send them any information about you.</li>
 </ul>
+<p>If sleighlist.app can’t be reached, the app downloads the movie list from GitHub instead, which also sees your device’s IP address. Apple receives your account ID with a purchase so it can be matched to your account.</p>
+<h2>Where your data is stored</h2>
+<p>Your account, list and usage stats are stored with Supabase in Frankfurt, Germany (EU). Supabase is a US company; where its staff or subprocessors outside the EU can access data, it uses the EU’s Standard Contractual Clauses.</p>
 <p>When the app opens a streaming service’s link, that service’s own privacy policy applies.</p>
 
 <h2>How long we keep it</h2>
-<p>We keep your list for as long as your account exists, so it is still there next Christmas. Encrypted backups of the database are kept for up to 90 days, so a deleted account disappears from backups within 90 days. If you delete your account, your list, ratings, notes and saves are deleted straight away, and your Sign in with Apple authorization is revoked. We keep the record of a purchase (transaction ID, product and date, without a link to your account) so the pass can still be restored and for our accounting records.</p>
+<p>We keep your list for as long as your account exists, so it is still there next Christmas. Encrypted backups of the database are kept for up to 90 days, so a deleted account disappears from backups within 90 days. If an account without a season pass or a Sign in with Apple backup isn’t used for 18 months, it is deleted along with its list. If you delete your account, your list, ratings, notes and saves are deleted straight away, and your Sign in with Apple authorization is revoked. We keep the record of a purchase (transaction ID, product and date, without a link to your account) so the pass can still be restored and for our accounting records.</p>
 
 <h2>Your choices and rights</h2>
 <ul>
