@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T04:51:58.000Z",
+  "generated_at": "2026-11-07T04:53:03.000Z",
   "attribution": {
     "text": "Streaming availability metadata and images are provided by Streaming Availability API by Movie of the Night.",
     "url": "https://www.movieofthenight.com/about/api"
   },
-  "images_allowed_until": "2027-12-12T04:51:58.000Z",
+  "images_allowed_until": "2027-12-12T04:53:03.000Z",
   "countries": [
     "us",
     "gb",
@@ -22536,7 +22536,7 @@
         "w240": "https://cdn.movieofthenight.com/show/130603/poster/vertical/en/240.jpg?Expires=1819362412&Signature=KVqowG19BzoYYVnjudeL1vYcNTnovRGDwJSigQbN2ORw2qYs4CXtcULXMScuW9XXrhY7dvi3IrqWBBeUP4sUts06EvtvjVV0FS7HZvgN0o3evRB4yr9uDdfOXXBmgcHbO4YfbmgCeZJWo0YQkZ0VIAUuZHCOojrDzxEF1hdwSsOlneh~CTYAtFqy2RewJseJNu4BsDrFwgvBp~6lZ4AQY0dcH40966HHf6vdPwUia4jZX6Lcw0gySw1Ko0yIqWF7PZKRwK-9mFCZN1aP5lt3zAW4r0EsQt5CTBAnX0duJNB5uIv5O~SGjp2HgnRiAOE5M9A9EOxmKVGYuQfYLQXsvw__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/130603/poster/vertical/en/480.jpg?Expires=1819362412&Signature=kCpSwlwkC2XYVkyZPmkK-Zgyh~F8ekYqxbU5h-D1vuAJmFnX~svl8VWBRUPagoRW2hBm8ZoXViySFIaMT~HoSiU7kiL0qqdUR5MCuqFZmXSI-Eerf5ulWT~COczWO10tubvr42cXPzs71V2TpMvjNcMeWeO33f1ABOmyVVyj-j-yFVTelBjgdWfapeKSYb8jLOEkHwpLZ~dbHh2BTDtzWVNAFH5eLnpnMwweb1KHb~cZK2Y~3hHVIIFpXuYJ~ZFh5j7xY0VxrcA~IyJaaM-6SxbXUxG6R6~cvcLQzFhkJUSUtFK2xnYyd1YYvJ2~0Pt1k8I1fjWhp2TWmtUi6BQBrQ__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -70906,7 +70906,7 @@
         "w240": "https://cdn.movieofthenight.com/show/182483/poster/vertical/en/240.jpg?Expires=1820616958&Signature=HyWJVE-ckjYb-zrX28VFT9xNuORFPzL3xmxSRzqGxO3yGL69n16-u-bYtxc9VCtX~1it3wm0vLhirasM~qZlDC24gXZUYDBfMTUNsUsWM0eWZ-Qw-S3X6DFvdvIw8M~zuRilF45x24tRyZTLVqwpbOzW1L8u1coovUjXq45k5TkImt~KA~y-wCSd1gBjvwYv65GKSr5d2EajYSrYE-3ALPH8wceiQVubN3f~CUA4Wk1EAdpB0UohM7bI1ruInNaaC1ErHeI8CuaaXnhB5rqre37sSPc0kXJhuDr-YLzDW8v7RyiApL2IAyqRNXm4E2kMhL-e3G~Vr6fbO00mWxCTNg__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/182483/poster/vertical/en/480.jpg?Expires=1820616958&Signature=ZOQ2INBdrQzEvRggmPEFvBasT90Dz8w8StwfW3LoyXJURnUC-tK9lM2uKLlfraMvqTuT7K9azlp6x87rdjmVbkYgNPkSfIBbvd657Niif5JGFUmLWVQYE63d8J8EL6Mx1-SPibVc7124cPL7OADiGQVdhPCDLR5GvPmuEpxMDf6NBRvBW9-vlCWPMlR3RrD-HSd5pNhFd2-kvkOqlWXG6Kl2SD8XB1XvP8UuhpZqxiIV5-l2HALcEtOS2S7LvI81IsmT8U-3PwZKf8BSPXP53OFDOZJUM4P47pwaEiMDHiKumKVUaXl8DyJy9yxrYLckAUnRhMa6BVC6ZwsOffJieA__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -71725,7 +71725,7 @@
         "w240": "https://cdn.movieofthenight.com/show/13051670/poster/vertical/en/240.jpg?Expires=1810972996&Signature=SdOdz59mXflEEpIudpLEONC91~u6OuawsEg-4fU-lSWC6CJX9mM1hOhmDwNykMf31XSMbPP~iB~cRYnpop3aWjQhXw0Mgb3D3kaKjlp80TxzIa9PAp~gVgZx1mIXj686SAiYxzwP-nhGo1b~PxsQtfmMHILnrnvQ0vp8CeGJUNiDzoY2s5-hYO2lmlUmDcjerQFjZ5vWnklizzWHDtY-AbsVi3TSyZ~LS2OgttwLsBPmR-nxvXH1ao15pxqchg53oxnDEmLyj5e7z7cgkAOH7wVH1ufI1SPD-B9a50iD1qAfXlqTF~swat-eIzrv2q7nGljAxcEJqHHgu3NXA~vw0w__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/13051670/poster/vertical/en/480.jpg?Expires=1810972996&Signature=jkLqZ7dLxpBsgYymFpWaCCozsYfZ6lfH-q1Bh2D-evdelKkpQlH6GUUcSueP3UfN5ndYU2B5fUDJ0VtYklFsIXjglOqksmlH3YHxmY3CAb3OGF8egGwv6616RBqTfMvC9t5guZhm4-GluebDoJZdVbeCXSWZ5R6As5OopuTQwQvho5c9egu7fG1ZS80Zy6~lctRnUSuxDarLIEnAcJLd~PvfBuyYcvTIvQHN2OLWVn2aLwVsZay6rM45NfuqvaeFlG1L~gTlKVuI-iylQBv6VYBdM37KTMC~J24cfVhNYy9aA3lJN8eZkigiXY5PaWod6AUbqrXwco1qFUEDZ3SSCQ__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -101158,7 +101158,7 @@
         "w240": "https://cdn.movieofthenight.com/show/5460526/poster/vertical/en/240.jpg?Expires=1819948252&Signature=fX181mPBEOjalMDoVkNWCWLc4Pv3-qe1BhEhyRSY8d8pkQGJGsRBAqnmHkrmYGB--uwHJDZwMjx-mG4PZ~MLzsjFTvtbFPD61zFFHU9O1pWs5n1zDQF9IJ~6tFo~Wc3N4j9MhmK~CACYlV5to19jrSFyYewAPoZFiCzD8t5becp3-2p6Z~HVNtadbuQCAZi2AXZqCOZe~kySMI883jWFjDkQkJ3bg49BpVH0htq-tZBKwqswqnL90dcF3hfat4AyJdWoudRzbykyecweHQY9t3ehwtP61AiTokftp765M~ryYhczWbe7NVNNf-QeWdg12c5k8puGxyO6AyxnnpggNA__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/5460526/poster/vertical/en/480.jpg?Expires=1819948252&Signature=bSnCvMJ~aGNr3Rj5AHBijOsVqb53ZwEglf2dlHEuSCzlUdqT08mGKXfq456nYQfD60o2xlWSgZ4NwIAfaCiDT0uqOLV3wpVrx3rgTn-aPWaMkrYscQHM6OS0nN-xoLU7Dts3k9LB4Cla1iKuXe2E8hHJeS7UejyPCgUvqNl8i8bpRITIodFRep92F6qDW-MCaWlEtfazCROuv63vrZjVIQ4inQcPhvWRbj7LrTp~mlmD9YUzq0GDqKGmMJGv8uRrTIvXaI7DSa8tOjCBqa5F-liqhYYWuXTnPFsiL6~VVwMStrdxWx77t2IrtykMBAwLE9EAsOMpQIFXfmJsPLfBug__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -125202,7 +125202,7 @@
         "w240": "https://cdn.movieofthenight.com/show/36321/poster/vertical/en/240.jpg?Expires=1821607306&Signature=b304pWkNSYU8uRZKbuQWMidxsQuYW~ho5QRMoUz8EXnYPY5wK363Qjev3kDhyc2fNr7K9w3j3Sts8iAl6IrVSPvT9gVjxQe360kkOowrkfeqoGvnTUnNGvvwlgdi3PVj65N2E3is46aPkU9EMEvLZtRArVhTIu1gPps7CZ7aaIUNZbXWZ0rwvb8wyOFFoQdlqIk4ph2x-yLY14kZ-tahvb0dN4b3ywNEJgJFUGd4DHq-L0H2B6UiLpPFtxZ6sLfIXOTeVrGAhaAv14cKwBo73-JFgGZb2fXCZpuRrh7Slsehnpe1VEu0lwzieUfXJBlW9AGQtqWU~FoQWPBatAjvEg__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/36321/poster/vertical/en/480.jpg?Expires=1821607306&Signature=X3R-XPX18UDT~~eTiQo5Cv5UXxfiKi0474zaz8nd6oaQ6px8qKdU~x8e9dEnGFZhmOCw0p1Wg3GGgCIRIxh8710ALjZl53DQ8EL-JJdFBZHbcTMOtpWYpxY4qedyINN4OsKgP8YxSBqJ3l1vSgIvCP2ImC0ykWKT4Oc1ikQ30EEGZVxK0kUEAU~WOERTw0eDvB16NfuA~xrcS-ENB5RfXalCXaY6Sk3gHLbgZ37K2qLMroopVbxdlAn9FXa-lXSKQAWTRsfeju6pFtEh5tx-GN3DrmGCyObvGwcgLSOyNUR~zQFfW2gZfboo3KGzTyZPfpvemOI0eZP482m0ZFzpag__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -125533,7 +125533,7 @@
         "w240": "https://cdn.movieofthenight.com/show/8948923/poster/vertical/en/240.jpg?Expires=1819395415&Signature=BMwukTDPOTmMxPoaFHHU48TVoyQ0Y6qSxK-9ypqLbfwYVfVK5ahUUmpNFQNJH9jE0RzLSmbtY726-qFgLYGQQ8TC2lfxFBtCCnxedHDTaIGW2GL303c9cNpQG-rv6mQA7Swav-Hplmlg7caIQ85GNIcj7uEjicfPzhsgADPMoEsiVS1uMSdpDerKwhwhjDH6ozi43F3vBKuSAMxsiBIPTByzEsKJBhDd6NQX8ZSOy8shfYsVWt4LepXhl8Wuoj3oiKiA7gTAmUBuqiiFxpq-UgQ400MY9rSYk-6zas68KoBmYr~v-dFE~jP-Dgzfwt49ogTu8ApJUQ6yxMD~Fq8baw__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/8948923/poster/vertical/en/480.jpg?Expires=1819395415&Signature=kzV0QkXiV-ug7trp4qj6XtjTU6lfP3gdYcegsRWyQatUGUUGfKAv6h3lMwkaiFOVdD7DXbctWCukNqNLRVDsAprfcHdSS-jIXp52Nvlc~-8b4dzY~q~icG7Y1oc2Jt3lFfDMBoBjOVxIdEtxaFCNo3Ss88TNngyaLppFH5OKhpIi5OtCPpomz7WrHMSncQANKS5uLy00gVD6zSIsx91uEIInCblIMH-~2xOBFzat3Kcav5gn2hd-lQVHQ4gyBMxxF3XxQyIw~mxO8M--iGG7khDkipF~UfzRHqVGsdtXpv-xi30h9wkt3CSa9dqWUmoZ-Jc-nhsBaMdttlJ1Vx8m0w__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -125648,7 +125648,7 @@
         "w240": "https://cdn.movieofthenight.com/show/23192663/poster/vertical/en/240.jpg?Expires=1817958129&Signature=PcoGNyHySxH8MRCA4qFybkIq93L5bTrA4mGxDMQGeGHswVjitxHDbfeQUPuiBLI-bSQRI~gyzjwy3F4Ff5Q6T-Pe-~e1mY0cvACDKQhmCSQzvI0yhqpkCHfl7LUdP9mVvTNJtypm1sR2zPd6TuVnIO4d0Tn1t73GAUE0P7xavMylzdD9YjZlNRUkpUwLNCM9smUYNJjAZjoDX3skMM1G3IhslVeEj--CIiq85w6m0-3q8taL4f33sNfQNB~ee0syX~G7f4Z860wsQvwUmZWyue6pXb6DKrS6NaFWAylf7rCCQBE00-ljyOuaaKar7-vvQGGFkrJ76iGwfOxplwBhFQ__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/23192663/poster/vertical/en/480.jpg?Expires=1817958129&Signature=Db5FjZCvEZZRD8dxNUfQcVX9z8nvyZOUb1Dv9iMTKioC613a3lcXpc2agbv81CP13VOK6cGjlynr2wMtojXh6wur9iEbixJSvKIDybMeLOKSHzGv3ykNCUxEUbdyeZHyrA0VtPCL-HwypjMaO6ply~m85N1wSeo465-VZZIMAqh9JjWmlPVGkMFKaQnn2djX6wv91~RhV8ZCoPQymcqtTX2nUKFGMj9yJzwTxa-JwtgH1BAJhep8jBrl7FMdc-2TS4GxnoS5P6R1~9giXxHY4yQ3WgGKHeuGj8NyaYx2RFYxUkkIL-XtGdJSpA0-jiUjAS87RvIsB9W70gkJ-R-zbA__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -129630,6 +129630,747 @@
             "addon_name": "Paramount+",
             "link": "https://tv.apple.com/ie/movie/a-european-christmas/umc.cmc.2f8ts9fa8gvav72uw4g9bfx95?playableId=tvs.sbd.1000439%3APPMOV_AEUROPEANCHRISTMAS_MOVIE",
             "quality": "hd"
+          }
+        ]
+      }
+    },
+    {
+      "tmdb_id": 1386503,
+      "imdb_id": "tt34006910",
+      "title": "Christmas, Love and Fudge",
+      "year": 2024,
+      "format": "film",
+      "genres": [
+        "family",
+        "romance"
+      ],
+      "runtime_min": 89,
+      "overview": "Pastry chef Amanda and entrepreneur Simon team up to recreate a famous fudge recipe for the Big Holiday Pastry Show. As they race against time, holiday love begins to bloom between the unlikely pair.",
+      "cast": [
+        "Erin Karpluk",
+        "Christopher Russell",
+        "Ashley Alexander",
+        "Janet Anderson",
+        "Dalias Blake",
+        "Brian (B Mack) Mccune",
+        "Toby Marks"
+      ],
+      "directors": [
+        "Danny J. Boyle"
+      ],
+      "poster": {
+        "w240": "https://cdn.movieofthenight.com/show/14164187/poster/vertical/en/240.jpg?Expires=1821565800&Signature=lxE6SjiGfEKqTnLlP0E6u51RpE4Um9dF1GWMXBrxoxWMXPIJzjDbq-l2OyucknkpbU7AN2ox9SQvjGbKAXlM7KP-VKx-8SNi4JA1cRxLvve6S2Va-UMwYhEfKIVr9QajSNjxd0Mt~W409y7hooYgrERoeZae1afNjsayvF5HrbrxzUW-0oOeLFtpyHjE2PvAM6rjIKzBTR3IxLXMOzqokmt9JjDk-Tjt4wVUj~NZ1sO8bvTG-YUQMwb9Az~wdHySc027nfaCtbZ4iLVmJ0l5CQfSB-QofefwgJizQPSX~G45K-Xo02cgv-pkhF6BHhCmcJtTRvXrqQQgnaARQqNDcQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+        "w480": "https://cdn.movieofthenight.com/show/14164187/poster/vertical/en/480.jpg?Expires=1821565800&Signature=dSypKY2EViNgwdJpAvcidiUg3wHplFnNzmIktevFyPY6X-bmyVjRi3z1tVwLprkm3HZDKjPI6e~1S5AkVqOQXW9e0vC0~mMq1Bghd7jSjjabW2K6uzhAT7u4J5u7tSBYbN6aTVUuUfE2G46SXylZOqKrY29eiy9f2AN66T6KRVSbt-BEA-s1NmkMp1IhNuut1yxDNguJMjiCCKjU-AmWqCcd6evgPvawPb4DCqfiFwz~JCJTW9cJvn3lHBQlhg6Pe7X07432y4~kumRhg3ksEahaAGpzY9IkKjTxd9xSeVIJgUC1jds83z4JQblRIt2Aha6F5Du~V7HPYiOFF5d3iA__&Key-Pair-Id=KK4HN3OO4AT5R"
+      },
+      "fetched_at": "2026-11-07T04:53:03.000Z",
+      "availability": {
+        "us": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.com/gp/video/detail/0OEYDKD6321NV7M378JA562HXH?ref_=atv_dp",
+            "quality": "hd",
+            "price": "0.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "Lifetime Movie Club",
+            "link": "https://tv.apple.com/us/movie/sweet-holiday-romance/umc.cmc.318loghb8eczbn4csbkck5s8j?playableId=tvs.sbd.1000229%3A308433AMVE_E001",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Lifetime Movie Club",
+            "link": "https://www.amazon.com/gp/video/detail/0OEYDKD6321NV7M378JA562HXH?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.com/gp/video/detail/0OEYDKD6321NV7M378JA562HXH?ref_=atv_dp",
+            "quality": "hd",
+            "price": "1.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/us/show/sweet-holiday-romance/umc.cmc.ecoag2kgskpscl3l7lj345kg",
+            "quality": "hd"
+          }
+        ]
+      }
+    },
+    {
+      "tmdb_id": 1341136,
+      "imdb_id": "tt32560068",
+      "title": "The Holiday Junkie",
+      "year": 2024,
+      "format": "film",
+      "genres": [
+        "drama"
+      ],
+      "runtime_min": 87,
+      "overview": "Andie and her mother Mimi run a company called The Holiday Junkie, a decorating and planning service for all holiday needs. But after Mimi passes away, Andie is forced to face her first Christmas without her mother.",
+      "cast": [
+        "Jennifer Love Hewitt",
+        "Brian Hallisay",
+        "Greg Grunberg",
+        "Debra Christofferson",
+        "Joseph C. Phillips",
+        "Rico Aragon",
+        "Lynn Andrews"
+      ],
+      "directors": [
+        "Jennifer Love Hewitt"
+      ],
+      "poster": {
+        "w240": "https://cdn.movieofthenight.com/show/13398669/poster/vertical/en/240.jpg?Expires=1820708115&Signature=HWBJ7x-Hn89O-id93Om4KQgSQYfBOlh6Z5nlL8j9nR2XXrPslHeuDTiWm4PszofQnvWwGGFZpykSNIZ8zs6hYCrYPnA68dVGXrVEWYBGniJSOMBzWB53AK7prXcIMfBDECf64JTPmbRtY75BiZ0S2KfBXuJKsZqldPr90zRT6ONeG9UooiIF~guRs2m4t1ZSjSjlex~kPk-OvkNOda7p4Z8JnkDfLANGJG7YVvBhPULZ7gPF9PfvHdIGjBMg8eDnFMLZHk9ZNDlNAy4uNL7VRqwAuL~vR~~K0kl7yXLldUj5LSrrNfxD638uhjQ-7TMdpl2tyt0njdmRZddszNlyEg__&Key-Pair-Id=KK4HN3OO4AT5R",
+        "w480": "https://cdn.movieofthenight.com/show/13398669/poster/vertical/en/480.jpg?Expires=1820708115&Signature=A9kBbG6uHpaGajhE0M3r-GkQlFx8yH3wlgh~Jvd7cyeXE4JBomB2JNGZbCG9JkQc4cEAPLwf8GoyHIVtQCpYzQlBF6oOhzOyFMSVFadpvNmM3nA3YCHPHkyUQ7Upr0PXP9JzN8BN9aHNLtuRwHEiZAWGBNbtPGHOJYHTOpss8NvnxTdYo-d-n3MIKJQ~qkw6fuQs2QMvnhx8UlpgpVNfjflEmGkX-NFXRUhmXg6EA78~Ff9ILlAemGwPe-bGy9uHDKsoEi9hQgl1gL7jHu~ajDmcaH1aFtfOLR7czJmW0n~23Sdb6LHSeP8k0mqvvRkHgbTfsRiwWLVGQEBFFy4XuA__&Key-Pair-Id=KK4HN3OO4AT5R"
+      },
+      "fetched_at": "2026-11-07T04:53:03.000Z",
+      "availability": {
+        "us": [
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "Lifetime Movie Club",
+            "link": "https://tv.apple.com/us/movie/the-holiday-junkie/umc.cmc.65useg4oo8z61dl5mios5xfcz?playableId=tvs.sbd.1000229%3A303820MOVE_E001",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp",
+            "quality": "sd",
+            "price": "3.99 USD"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp",
+            "quality": "hd",
+            "price": "2.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/us/show/the-holiday-junkie/umc.cmc.xzrke3h1wun9zctixs8pvzi",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp",
+            "quality": "hd",
+            "price": "4.99 USD"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Lifetime Movie Club",
+            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp"
+          }
+        ],
+        "ca": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Crave",
+            "link": "https://www.primevideo.com/detail/0H6X0CDCQHM38UZPJ6R7C65JFX?ref_=atv_dp"
+          },
+          {
+            "service_id": "crave",
+            "service_name": "Crave",
+            "type": "subscription",
+            "link": "https://www.crave.ca/en/movie/the-holiday-junkie-57297"
+          }
+        ]
+      }
+    },
+    {
+      "tmdb_id": 890757,
+      "imdb_id": "tt14807078",
+      "title": "A Christmas Proposal",
+      "year": 2021,
+      "format": "film",
+      "genres": [
+        "romance"
+      ],
+      "runtime_min": 86,
+      "overview": "A down-on-her-luck chef, who dreams of starting her own line of food trucks, agrees to pose as the girlfriend of a hotshot Seattle attorney, visiting his family for Christmas, to help him prove he's the ideal candidate to take over the family firm. But their business arrangement is complicated by the magic of the season as real sparks begin to fly.",
+      "cast": [
+        "Adam Rodriguez",
+        "Jessica Camacho",
+        "Luisa d'Oliveira",
+        "Bianca Caroca",
+        "Andres Soto",
+        "Claudia Ferri",
+        "Juan Chioran"
+      ],
+      "directors": [
+        "Martin Wood"
+      ],
+      "poster": {
+        "w240": "https://cdn.movieofthenight.com/show/107742/poster/vertical/en/240.jpg?Expires=1821483713&Signature=aJRzX1DGfGLbVbKw7Q0eVg2DFAwlAhCv3JWJFGF9hjQK~IBkRyALhCqPWM8h5Rp8XGIKzdXkeH6D~lk0oJ0kzWO2YQKnmPCymi0ay5VwaqXVQj250nx9NHGJTYcE-d5e4WBtpKsoGRFpDF2cKxY5FIU-~5THMkIQ4WvcJUJhpsV~2a9RqYUiNCNgpkxlqkyr6ra00GEq786f1hRSIFjWtcSX07cT8o9ImeejvEAb~bGuGYJ9msheKEDUl2e0ui7cC7Dmd2ua~n6uwGhj-r3e3aQd1F-E8H9L3eYKNN5xPK8HIBgkKa6RcZ7pUYIikoe6ZoXPYrdRi5oE8z8YNIl-Rg__&Key-Pair-Id=KK4HN3OO4AT5R",
+        "w480": "https://cdn.movieofthenight.com/show/107742/poster/vertical/en/480.jpg?Expires=1821483713&Signature=MdEPxW32yBhWhHzgXCWHpKRyCsnQ3BeRTebavKyA3OwHsw8zer1Ms8o7LRaaMWxECL54P0GCmYZ1NmxEiG33hu~afSI5zDxwbt0FW-LSCFLzTCRdYIpmxeXUAKkndXO-zzWJ4tGUVAkZvuqQjE~UmzrKrEIVTgOBt1Az3wbMS2AbztlJZfgLFNPeKDsQQtDg-tGkEG-tsi0iis3hlPaBh0fppFYa6r~0~-71e1jrdX3as0oCIilSymmLwY8Hm8XuhD39~Ci-8ckOPQfoUt1qoz-txNBT-as1EgGmg5-ZpJDZqWIes9bEjo4ccOx-uz7or3ZSmqeydL2L~GP1z6aeaA__&Key-Pair-Id=KK4HN3OO4AT5R"
+      },
+      "fetched_at": "2026-11-07T04:53:03.000Z",
+      "availability": {
+        "us": [
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/us/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.9001%3A1596236209",
+            "quality": "hd",
+            "price": "12.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "rent",
+            "link": "https://tv.apple.com/us/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.9001%3A1596236209",
+            "quality": "hd",
+            "price": "3.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "Paramount+",
+            "link": "https://tv.apple.com/us/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000230%3AjdqAE_qWzgbuUOwxvGvu3oxYcqYB0IBT",
+            "quality": "hd"
+          },
+          {
+            "service_id": "roku",
+            "service_name": "The Roku Channel",
+            "type": "addon",
+            "addon_name": "Paramount+",
+            "link": "https://therokuchannel.roku.com/details/2bb316681c01b4c6e3e1b5c9a4988069",
+            "quality": "hd",
+            "expires_on": "2027-01-01"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Paramount+",
+            "link": "https://www.amazon.com/gp/video/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.com/gp/video/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "3.99 USD"
+          }
+        ],
+        "au": [
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "Paramount+",
+            "link": "https://tv.apple.com/au/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000439%3APPMOV_ACHRISTMASPROPOSAL_MOVIE_UHD",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Paramount+",
+            "link": "https://www.primevideo.com/detail/0HBXXBWGJGAFEBE38NJBZJT6JX?ref_=atv_dp"
+          }
+        ],
+        "no": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/no/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://tv.apple.com/no/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "39.00 NOK"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "99.00 NOK"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          }
+        ],
+        "bg": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/bg/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "hr": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/hr/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "cz": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/cz/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "59.00 CZK"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "129.00 CZK"
+          }
+        ],
+        "dk": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "99.00 DKK"
+          },
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/dk/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "39.00 DKK"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://tv.apple.com/dk/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
+            "quality": "hd"
+          }
+        ],
+        "fi": [
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://tv.apple.com/fi/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/fi/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "hu": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/hu/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/hu/stream/movies/karacsonyi-ajanlat/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "790.00 HUF"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "1990.00 HUF"
+          }
+        ],
+        "nl": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/nl/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "pl": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/pl/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          }
+        ],
+        "pt": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/pt/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "ro": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/ro/stream/movies/o-propunere-de-craciun/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/ro/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "24.99 RON"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "9.99 RON"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          }
+        ],
+        "sk": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/sk/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "si": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/si/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ],
+        "es": [
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/es/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/es/stream/movies/una-propuesta-navidena/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "7.99 EUR"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "hd",
+            "price": "3.99 EUR"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
+            "quality": "sd",
+            "price": "2.99 EUR"
+          }
+        ],
+        "se": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "SkyShowtime",
+            "link": "https://tv.apple.com/se/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
+            "quality": "hd"
+          },
+          {
+            "service_id": "skyshowtime",
+            "service_name": "SkyShowtime",
+            "type": "subscription",
+            "link": "https://www.skyshowtime.com/se/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
+            "quality": "uhd",
+            "expires_on": "2027-03-31"
+          }
+        ]
+      }
+    },
+    {
+      "tmdb_id": 1132189,
+      "imdb_id": "tt29552165",
+      "title": "Yes, Chef! Christmas",
+      "year": 2023,
+      "format": "film",
+      "genres": [
+        "comedy"
+      ],
+      "runtime_min": 87,
+      "overview": "A woman who put her career aspirations and personal life aside enters a cooking competition, where she learns a life-changing family secret.",
+      "cast": [
+        "Tia Mowry",
+        "Luke Humphrey",
+        "Rebecca Amzallag",
+        "Raven Dauda",
+        "Scott Gibson",
+        "Rothaford Gray",
+        "Anas Hasan"
+      ],
+      "directors": [
+        "Max McGuire"
+      ],
+      "poster": {
+        "w240": "https://cdn.movieofthenight.com/show/5461088/poster/vertical/en/240.jpg?Expires=1820568969&Signature=NsaF34XBhCIX0qyT5q5mB47djvnr1qsbJVEDTi9XTJXjm7krWjyr8LFxnked1fFW-GPKpgNg2YF8z2I028UZtdonPtakeHjIMv~vsXmxg9Tob2z8eYI099Zb8NmEXpEIjbP3N4SsfFTsLrIiED9CNhOw9WrvaiR0vd4yCsM~x0ZQWf3LUaWv0QWDg6is5DgUECjSmHGt0nJwAt5Gt2KQE2hNzrQ8CyEwiLkgY~w4Sm7Oy~Eu8bI34P1A3HV0SmzfdMVm9Mw79ylbL9Ww2TAxXnjn9GyeBL6hhujlvOyywrgha5v7Bh2RsL52Ug67TDOvVdhBOdF-9Z2sbVzw7z~6wQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+        "w480": "https://cdn.movieofthenight.com/show/5461088/poster/vertical/en/480.jpg?Expires=1820568969&Signature=i7I575fWzotEc6GpvYP~ghEq5-~CQwA75nctzepUvxFhRghThnZMlpo4GSNEfo8POIjlSS4gMIA9oHyUllWW6L4zYqVWzxMeqFrp2~Qm3o5sBed8ZNH-JfcMs8NXLnhrTcwFsSzgqR4J8QXStThgLKIYYRFFiu3bEaAnQLRXJx~1Rg0dr8ai474bI945RJqYM2ivSh3ZadNjueifReovVhUu2CFTQIM3qf8BILhBUcB5eAKSlagS0QEZYe4tagd3I6Yzl973s5xsLGEOg94OgxgRVIEAs-q-RF1avmz9~74jpPvdmBy7Uj8v~t7yot3MvASJKAahiD0ITr-x7QzZWQ__&Key-Pair-Id=KK4HN3OO4AT5R"
+      },
+      "fetched_at": "2026-11-07T04:53:03.000Z",
+      "availability": {
+        "us": [
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "addon",
+            "addon_name": "Lifetime Movie Club",
+            "link": "https://tv.apple.com/us/movie/yes-chef-christmas/umc.cmc.2er6lfrdu08z5g4jhipfqnk7t?playableId=tvs.sbd.1000229%3A289108MOVE_E001",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp",
+            "quality": "hd",
+            "price": "2.99 USD"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp",
+            "quality": "hd",
+            "price": "4.99 USD"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp",
+            "quality": "sd",
+            "price": "3.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/us/show/yes-chef-christmas/umc.cmc.1xqz9pe9wcbg9uy61c60u2tg6",
+            "quality": "hd"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Lifetime Movie Club",
+            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp"
+          }
+        ],
+        "gb": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "Sony Pictures Core",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0J15GNUL1XCZH8VSOCG6D2T225?ref_=atv_dp"
+          }
+        ],
+        "pt": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "subscription",
+            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41792540-5d6f-46f4-adf4-6436d56ca5ad"
+          }
+        ],
+        "es": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "subscription",
+            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41792540-5d6f-46f4-adf4-6436d56ca5ad"
           }
         ]
       }
@@ -157945,7 +158686,7 @@
         "w240": "https://cdn.movieofthenight.com/show/7514/poster/vertical/en/240.jpg?Expires=1821353563&Signature=MI2xsauBZGJmrJ5tJjW2NDyZylMa3dJsNRh8ylTrQP5KQIspvnuE5~tJT~MC1zOBcKcEG9advV-OYhpsB6Ie6wzTjV~If7bHfYbALepCpro~pdS6ow7fSLbs3ScR2UQaHznKrw~gSU23fJmSQ9vqR3qXqsd99ehq7HYTUAHmAKsFHlqu~8L4SjbbfWHwP045HVecy4oJSxhMwn4w9ZexsrjcZMtwNu5HowaW6sy3IlS2eBijh88RqGm2b4MyedHL8AxL7OpT5eRnd9yCiAKdoQ7xCJ~nhNiHk8ZuM0VT0JK0ZBekBRhyCyrmedj4hpU1z8XxzIUV~fIMClsacpW~0Q__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/7514/poster/vertical/en/480.jpg?Expires=1821353563&Signature=DlbA4lXDHaVBxR11w6hfvITcHsVo4MfVRpZZWFe7gpKSsdfSYBWAF7v7x4oF0FtcUOG5mEwd1XcbWmgV-ecy373sxR66T0oLf8uKRIbbtoPledHyXC96Oq1-9ifoErw72KwWWfA1qec3LVbXEvQ-kf8lCXcSyVMtlsAeOjJ3YGXUSvMIWQ4SrmBDyhIgCsLHAkyZEyr7wNJ2C9Xf46chR-YjRniWri60Awe53bVMdvTgoXOaGCSeuQNP6jgjZhc9zzGjH-WcGiLTyGxbXMsdF2XV1moox03Nu5rWRavMM3rkup~yrzi3lkiUKMBYH3SzPiHQNBhCYfUiD8za02RPvg__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -221782,7 +222523,7 @@
         "w240": "https://cdn.movieofthenight.com/show/12256/poster/vertical/en/240.jpg?Expires=1821669410&Signature=LvekU710DPqmrmXKBZPBbBFnlfC09yVQTTmTjWBeCPsUt0SH51D6dwTO-5oqYhrm30BO-2K0fuwzmyJIVZT8Ffz~vR1YniIAKy67V~KHzUgwiy0Mb6QzYkbhAEqxQipnVcWdAV0nrxyjfzIrYfDlViMzQNGbb4H5ijxIX9muZdLnDLEghsZbfqINESL--zBlDX7S2pEWpkJJmWcGPaOUMBoFjOWKUlHDdymkl~r-xLFcLDvFz5rrJ-0ZWwR5i4pnyI7hBPS6R8g5JB9BFCY6Ot1zHZxyQowuWmmraiFeV8~kXmeffxFdvpSohjiAQi3qraQ4LfPn0PyoQU3dP-Bx-Q__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/12256/poster/vertical/en/480.jpg?Expires=1821669410&Signature=I6hs5M4ATALaJo4mZl~W5giKZU5GpyVIMpCkxIN56AOk-fgBS7DHkh~CPv7CWmC9X5ZKXdNyTfU63lHuB7FIutphPkG-gHc7Nf~LSU0puGjtdBBQIThYnnztI3TtJW5coE2PYsQLu2wo8xFCtp7csshMIJUNtQ3oI9JVz3uI5ho6~qX~I4Fl-riOnh4eCT~tGTqpa3NppG-HJveMwRbeekYmcw0s252Cy5oXOWV9TJlHPBk9A7fD8zHjVrJ~C3szdEQ4KrM7Q8mz4hk3-tFj6~uX0j3qstnFHgHF2sOfrsdU6ASHRAWNMhWHbPBx0TryarFMrM8WA115egNWopqO-Q__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -253780,11 +254521,23 @@
       ],
       "runtime_min": 86,
       "overview": "A TV producer gets more than she bargained for when she learns the actor she hired to play Santa is the real St. Nick—and looking for a replacement.",
+      "cast": [
+        "Whoopi Goldberg",
+        "Nigel Hawthorne",
+        "Victor Garber",
+        "Taylor Negron",
+        "Frankie Faison",
+        "Kip King",
+        "Brian Stokes Mitchell"
+      ],
+      "directors": [
+        "Peter Werner"
+      ],
       "poster": {
         "w240": "https://cdn.movieofthenight.com/show/49188/poster/vertical/en/240.jpg?Expires=1822175258&Signature=IxbB4WeOH3MRywNn9Of97bsFUqAaOSlOJ4jvkEMcJlQ0647UnMtp5uwN-G351GeNphEUncjyOrNkuo~CRUKF4-Z12qR0CqxuMdeeslCwniJq8-gnojSuwrka1xi8uWuCfsC0Uxqr63bExqab2V~F5R3jKMGHyoX1Hq4qT3EMNV8fZFAcUcXgccRJRUk3cMDfikfllfAxDQRy~ssPPf33hEL-d4euco3lg2mS5oxtAd2dCyFHKk6qtfSnVcflKkKDT~Q58g1XpUSJjN5icgDJzlTjP2WRDkPNRkl9w6LG3eYf1bUcpCmIaoGRNHZF6BvVBGWYh1nX6EYaO3KMw08C9A__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/49188/poster/vertical/en/480.jpg?Expires=1822175258&Signature=XMB~AT1Q1YCjAGVWwHbqRYikQ2zikbG~LLzlUdSZXJpFjvwMjRLQQ3STWyd48yQRiNw-RQYB7ducyD2~UHeA477i2RgK~ZBnmzMYFdGrGs9d3CQzR~1i3tVaB5dGLSaaxJ6huiHv9u0Rs29RbsGkONbsOHNrqxBrcWpw0RLNVmQ-rfZOSJXbGQ7lV7zJNBWTxKs5xCdgOchAvt3qDaxYQh29P-fQ9QMLcDNf2QBWzHKomWxteSuqra11oLQLOfNx~lmr8rqjn-S2IeE~8VHBipBNlwwOctLi3yjCSojCJLji1xfKxygC36cgd4enD-BHJpeIPo8S2yAqxOsnMkvzww__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-06T14:19:59.000Z",
+      "fetched_at": "2026-11-07T04:53:03.000Z",
       "availability": {
         "us": [
           {
@@ -253801,6 +254554,24 @@
             "link": "https://therokuchannel.roku.com/details/2649d8ffa8845a5aba7c8d79daa1c28d",
             "quality": "hd",
             "expires_on": "2026-12-01"
+          }
+        ],
+        "gb": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0KBB30O8LYYZ2XP34O9JDVVA39?ref_=atv_dp",
+            "quality": "hd",
+            "price": "7.99 GBP"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0KBB30O8LYYZ2XP34O9JDVVA39?ref_=atv_dp",
+            "quality": "hd",
+            "price": "3.49 GBP"
           }
         ],
         "ca": [
@@ -253826,6 +254597,31 @@
             "link": "https://www.primevideo.com/detail/0KBB30O8LYYZ2XP34O9JDVVA39?ref_=atv_dp",
             "quality": "hd",
             "price": "14.99 CAD"
+          }
+        ],
+        "au": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0KBB30O8LYYZ2XP34O9JDVVA39?ref_=atv_dp",
+            "quality": "hd",
+            "price": "12.99 AUD"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "BINGE",
+            "link": "https://www.primevideo.com/detail/0KBB30O8LYYZ2XP34O9JDVVA39?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0KBB30O8LYYZ2XP34O9JDVVA39?ref_=atv_dp",
+            "quality": "hd",
+            "price": "4.99 AUD"
           }
         ],
         "is": [
@@ -307513,747 +308309,6 @@
             "service_name": "Netflix",
             "type": "subscription",
             "link": "https://www.netflix.com/title/81418071"
-          }
-        ]
-      }
-    },
-    {
-      "tmdb_id": 1386503,
-      "imdb_id": "tt34006910",
-      "title": "Christmas, Love and Fudge",
-      "year": 2024,
-      "format": "film",
-      "genres": [
-        "family",
-        "romance"
-      ],
-      "runtime_min": 89,
-      "overview": "Pastry chef Amanda and entrepreneur Simon team up to recreate a famous fudge recipe for the Big Holiday Pastry Show. As they race against time, holiday love begins to bloom between the unlikely pair.",
-      "cast": [
-        "Erin Karpluk",
-        "Christopher Russell",
-        "Ashley Alexander",
-        "Janet Anderson",
-        "Dalias Blake",
-        "Brian (B Mack) Mccune",
-        "Toby Marks"
-      ],
-      "directors": [
-        "Danny J. Boyle"
-      ],
-      "poster": {
-        "w240": "https://cdn.movieofthenight.com/show/14164187/poster/vertical/en/240.jpg?Expires=1821565800&Signature=lxE6SjiGfEKqTnLlP0E6u51RpE4Um9dF1GWMXBrxoxWMXPIJzjDbq-l2OyucknkpbU7AN2ox9SQvjGbKAXlM7KP-VKx-8SNi4JA1cRxLvve6S2Va-UMwYhEfKIVr9QajSNjxd0Mt~W409y7hooYgrERoeZae1afNjsayvF5HrbrxzUW-0oOeLFtpyHjE2PvAM6rjIKzBTR3IxLXMOzqokmt9JjDk-Tjt4wVUj~NZ1sO8bvTG-YUQMwb9Az~wdHySc027nfaCtbZ4iLVmJ0l5CQfSB-QofefwgJizQPSX~G45K-Xo02cgv-pkhF6BHhCmcJtTRvXrqQQgnaARQqNDcQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-        "w480": "https://cdn.movieofthenight.com/show/14164187/poster/vertical/en/480.jpg?Expires=1821565800&Signature=dSypKY2EViNgwdJpAvcidiUg3wHplFnNzmIktevFyPY6X-bmyVjRi3z1tVwLprkm3HZDKjPI6e~1S5AkVqOQXW9e0vC0~mMq1Bghd7jSjjabW2K6uzhAT7u4J5u7tSBYbN6aTVUuUfE2G46SXylZOqKrY29eiy9f2AN66T6KRVSbt-BEA-s1NmkMp1IhNuut1yxDNguJMjiCCKjU-AmWqCcd6evgPvawPb4DCqfiFwz~JCJTW9cJvn3lHBQlhg6Pe7X07432y4~kumRhg3ksEahaAGpzY9IkKjTxd9xSeVIJgUC1jds83z4JQblRIt2Aha6F5Du~V7HPYiOFF5d3iA__&Key-Pair-Id=KK4HN3OO4AT5R"
-      },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
-      "availability": {
-        "us": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.amazon.com/gp/video/detail/0OEYDKD6321NV7M378JA562HXH?ref_=atv_dp",
-            "quality": "hd",
-            "price": "0.99 USD"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "Lifetime Movie Club",
-            "link": "https://tv.apple.com/us/movie/sweet-holiday-romance/umc.cmc.318loghb8eczbn4csbkck5s8j?playableId=tvs.sbd.1000229%3A308433AMVE_E001",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Lifetime Movie Club",
-            "link": "https://www.amazon.com/gp/video/detail/0OEYDKD6321NV7M378JA562HXH?ref_=atv_dp"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.amazon.com/gp/video/detail/0OEYDKD6321NV7M378JA562HXH?ref_=atv_dp",
-            "quality": "hd",
-            "price": "1.99 USD"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "buy",
-            "link": "https://tv.apple.com/us/show/sweet-holiday-romance/umc.cmc.ecoag2kgskpscl3l7lj345kg",
-            "quality": "hd"
-          }
-        ]
-      }
-    },
-    {
-      "tmdb_id": 1341136,
-      "imdb_id": "tt32560068",
-      "title": "The Holiday Junkie",
-      "year": 2024,
-      "format": "film",
-      "genres": [
-        "drama"
-      ],
-      "runtime_min": 87,
-      "overview": "Andie and her mother Mimi run a company called The Holiday Junkie, a decorating and planning service for all holiday needs. But after Mimi passes away, Andie is forced to face her first Christmas without her mother.",
-      "cast": [
-        "Jennifer Love Hewitt",
-        "Brian Hallisay",
-        "Greg Grunberg",
-        "Debra Christofferson",
-        "Joseph C. Phillips",
-        "Rico Aragon",
-        "Lynn Andrews"
-      ],
-      "directors": [
-        "Jennifer Love Hewitt"
-      ],
-      "poster": {
-        "w240": "https://cdn.movieofthenight.com/show/13398669/poster/vertical/en/240.jpg?Expires=1820708115&Signature=HWBJ7x-Hn89O-id93Om4KQgSQYfBOlh6Z5nlL8j9nR2XXrPslHeuDTiWm4PszofQnvWwGGFZpykSNIZ8zs6hYCrYPnA68dVGXrVEWYBGniJSOMBzWB53AK7prXcIMfBDECf64JTPmbRtY75BiZ0S2KfBXuJKsZqldPr90zRT6ONeG9UooiIF~guRs2m4t1ZSjSjlex~kPk-OvkNOda7p4Z8JnkDfLANGJG7YVvBhPULZ7gPF9PfvHdIGjBMg8eDnFMLZHk9ZNDlNAy4uNL7VRqwAuL~vR~~K0kl7yXLldUj5LSrrNfxD638uhjQ-7TMdpl2tyt0njdmRZddszNlyEg__&Key-Pair-Id=KK4HN3OO4AT5R",
-        "w480": "https://cdn.movieofthenight.com/show/13398669/poster/vertical/en/480.jpg?Expires=1820708115&Signature=A9kBbG6uHpaGajhE0M3r-GkQlFx8yH3wlgh~Jvd7cyeXE4JBomB2JNGZbCG9JkQc4cEAPLwf8GoyHIVtQCpYzQlBF6oOhzOyFMSVFadpvNmM3nA3YCHPHkyUQ7Upr0PXP9JzN8BN9aHNLtuRwHEiZAWGBNbtPGHOJYHTOpss8NvnxTdYo-d-n3MIKJQ~qkw6fuQs2QMvnhx8UlpgpVNfjflEmGkX-NFXRUhmXg6EA78~Ff9ILlAemGwPe-bGy9uHDKsoEi9hQgl1gL7jHu~ajDmcaH1aFtfOLR7czJmW0n~23Sdb6LHSeP8k0mqvvRkHgbTfsRiwWLVGQEBFFy4XuA__&Key-Pair-Id=KK4HN3OO4AT5R"
-      },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
-      "availability": {
-        "us": [
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "Lifetime Movie Club",
-            "link": "https://tv.apple.com/us/movie/the-holiday-junkie/umc.cmc.65useg4oo8z61dl5mios5xfcz?playableId=tvs.sbd.1000229%3A303820MOVE_E001",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp",
-            "quality": "sd",
-            "price": "3.99 USD"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp",
-            "quality": "hd",
-            "price": "2.99 USD"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "buy",
-            "link": "https://tv.apple.com/us/show/the-holiday-junkie/umc.cmc.xzrke3h1wun9zctixs8pvzi",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp",
-            "quality": "hd",
-            "price": "4.99 USD"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Lifetime Movie Club",
-            "link": "https://www.amazon.com/gp/video/detail/0IO93QKT5AZBDCFAFCFI0M01T3?ref_=atv_dp"
-          }
-        ],
-        "ca": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Crave",
-            "link": "https://www.primevideo.com/detail/0H6X0CDCQHM38UZPJ6R7C65JFX?ref_=atv_dp"
-          },
-          {
-            "service_id": "crave",
-            "service_name": "Crave",
-            "type": "subscription",
-            "link": "https://www.crave.ca/en/movie/the-holiday-junkie-57297"
-          }
-        ]
-      }
-    },
-    {
-      "tmdb_id": 890757,
-      "imdb_id": "tt14807078",
-      "title": "A Christmas Proposal",
-      "year": 2021,
-      "format": "film",
-      "genres": [
-        "romance"
-      ],
-      "runtime_min": 86,
-      "overview": "A down-on-her-luck chef, who dreams of starting her own line of food trucks, agrees to pose as the girlfriend of a hotshot Seattle attorney, visiting his family for Christmas, to help him prove he's the ideal candidate to take over the family firm. But their business arrangement is complicated by the magic of the season as real sparks begin to fly.",
-      "cast": [
-        "Adam Rodriguez",
-        "Jessica Camacho",
-        "Luisa d'Oliveira",
-        "Bianca Caroca",
-        "Andres Soto",
-        "Claudia Ferri",
-        "Juan Chioran"
-      ],
-      "directors": [
-        "Martin Wood"
-      ],
-      "poster": {
-        "w240": "https://cdn.movieofthenight.com/show/107742/poster/vertical/en/240.jpg?Expires=1821483713&Signature=aJRzX1DGfGLbVbKw7Q0eVg2DFAwlAhCv3JWJFGF9hjQK~IBkRyALhCqPWM8h5Rp8XGIKzdXkeH6D~lk0oJ0kzWO2YQKnmPCymi0ay5VwaqXVQj250nx9NHGJTYcE-d5e4WBtpKsoGRFpDF2cKxY5FIU-~5THMkIQ4WvcJUJhpsV~2a9RqYUiNCNgpkxlqkyr6ra00GEq786f1hRSIFjWtcSX07cT8o9ImeejvEAb~bGuGYJ9msheKEDUl2e0ui7cC7Dmd2ua~n6uwGhj-r3e3aQd1F-E8H9L3eYKNN5xPK8HIBgkKa6RcZ7pUYIikoe6ZoXPYrdRi5oE8z8YNIl-Rg__&Key-Pair-Id=KK4HN3OO4AT5R",
-        "w480": "https://cdn.movieofthenight.com/show/107742/poster/vertical/en/480.jpg?Expires=1821483713&Signature=MdEPxW32yBhWhHzgXCWHpKRyCsnQ3BeRTebavKyA3OwHsw8zer1Ms8o7LRaaMWxECL54P0GCmYZ1NmxEiG33hu~afSI5zDxwbt0FW-LSCFLzTCRdYIpmxeXUAKkndXO-zzWJ4tGUVAkZvuqQjE~UmzrKrEIVTgOBt1Az3wbMS2AbztlJZfgLFNPeKDsQQtDg-tGkEG-tsi0iis3hlPaBh0fppFYa6r~0~-71e1jrdX3as0oCIilSymmLwY8Hm8XuhD39~Ci-8ckOPQfoUt1qoz-txNBT-as1EgGmg5-ZpJDZqWIes9bEjo4ccOx-uz7or3ZSmqeydL2L~GP1z6aeaA__&Key-Pair-Id=KK4HN3OO4AT5R"
-      },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
-      "availability": {
-        "us": [
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "buy",
-            "link": "https://tv.apple.com/us/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.9001%3A1596236209",
-            "quality": "hd",
-            "price": "12.99 USD"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "rent",
-            "link": "https://tv.apple.com/us/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.9001%3A1596236209",
-            "quality": "hd",
-            "price": "3.99 USD"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "Paramount+",
-            "link": "https://tv.apple.com/us/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000230%3AjdqAE_qWzgbuUOwxvGvu3oxYcqYB0IBT",
-            "quality": "hd"
-          },
-          {
-            "service_id": "roku",
-            "service_name": "The Roku Channel",
-            "type": "addon",
-            "addon_name": "Paramount+",
-            "link": "https://therokuchannel.roku.com/details/2bb316681c01b4c6e3e1b5c9a4988069",
-            "quality": "hd",
-            "expires_on": "2027-01-01"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Paramount+",
-            "link": "https://www.amazon.com/gp/video/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.amazon.com/gp/video/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "3.99 USD"
-          }
-        ],
-        "au": [
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "Paramount+",
-            "link": "https://tv.apple.com/au/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000439%3APPMOV_ACHRISTMASPROPOSAL_MOVIE_UHD",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Paramount+",
-            "link": "https://www.primevideo.com/detail/0HBXXBWGJGAFEBE38NJBZJT6JX?ref_=atv_dp"
-          }
-        ],
-        "no": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/no/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://tv.apple.com/no/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "39.00 NOK"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "99.00 NOK"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          }
-        ],
-        "bg": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/bg/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "hr": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/hr/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "cz": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/cz/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "59.00 CZK"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "129.00 CZK"
-          }
-        ],
-        "dk": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "99.00 DKK"
-          },
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/dk/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "39.00 DKK"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://tv.apple.com/dk/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
-            "quality": "hd"
-          }
-        ],
-        "fi": [
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://tv.apple.com/fi/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/fi/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "hu": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/hu/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/hu/stream/movies/karacsonyi-ajanlat/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "790.00 HUF"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "1990.00 HUF"
-          }
-        ],
-        "nl": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/nl/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "pl": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/pl/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          }
-        ],
-        "pt": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/pt/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "ro": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/ro/stream/movies/o-propunere-de-craciun/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/ro/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "24.99 RON"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "9.99 RON"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          }
-        ],
-        "sk": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/sk/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "si": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/si/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ],
-        "es": [
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/es/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/es/stream/movies/una-propuesta-navidena/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "7.99 EUR"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "hd",
-            "price": "3.99 EUR"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp",
-            "quality": "sd",
-            "price": "2.99 EUR"
-          }
-        ],
-        "se": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://www.primevideo.com/detail/0UA5FOG0R1GFD684R0TJ09SB9A?ref_=atv_dp"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "SkyShowtime",
-            "link": "https://tv.apple.com/se/movie/a-christmas-proposal/umc.cmc.2hr4l8qkbxjwun2d7jp0pqxml?playableId=tvs.sbd.1000552%3AGTMV0000888300",
-            "quality": "hd"
-          },
-          {
-            "service_id": "skyshowtime",
-            "service_name": "SkyShowtime",
-            "type": "subscription",
-            "link": "https://www.skyshowtime.com/se/stream/movies/a-christmas-proposal/d5355f8e-424b-37bb-98d2-7030809966c6",
-            "quality": "uhd",
-            "expires_on": "2027-03-31"
-          }
-        ]
-      }
-    },
-    {
-      "tmdb_id": 1132189,
-      "imdb_id": "tt29552165",
-      "title": "Yes, Chef! Christmas",
-      "year": 2023,
-      "format": "film",
-      "genres": [
-        "comedy"
-      ],
-      "runtime_min": 87,
-      "overview": "A woman who put her career aspirations and personal life aside enters a cooking competition, where she learns a life-changing family secret.",
-      "cast": [
-        "Tia Mowry",
-        "Luke Humphrey",
-        "Rebecca Amzallag",
-        "Raven Dauda",
-        "Scott Gibson",
-        "Rothaford Gray",
-        "Anas Hasan"
-      ],
-      "directors": [
-        "Max McGuire"
-      ],
-      "poster": {
-        "w240": "https://cdn.movieofthenight.com/show/5461088/poster/vertical/en/240.jpg?Expires=1820568969&Signature=NsaF34XBhCIX0qyT5q5mB47djvnr1qsbJVEDTi9XTJXjm7krWjyr8LFxnked1fFW-GPKpgNg2YF8z2I028UZtdonPtakeHjIMv~vsXmxg9Tob2z8eYI099Zb8NmEXpEIjbP3N4SsfFTsLrIiED9CNhOw9WrvaiR0vd4yCsM~x0ZQWf3LUaWv0QWDg6is5DgUECjSmHGt0nJwAt5Gt2KQE2hNzrQ8CyEwiLkgY~w4Sm7Oy~Eu8bI34P1A3HV0SmzfdMVm9Mw79ylbL9Ww2TAxXnjn9GyeBL6hhujlvOyywrgha5v7Bh2RsL52Ug67TDOvVdhBOdF-9Z2sbVzw7z~6wQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-        "w480": "https://cdn.movieofthenight.com/show/5461088/poster/vertical/en/480.jpg?Expires=1820568969&Signature=i7I575fWzotEc6GpvYP~ghEq5-~CQwA75nctzepUvxFhRghThnZMlpo4GSNEfo8POIjlSS4gMIA9oHyUllWW6L4zYqVWzxMeqFrp2~Qm3o5sBed8ZNH-JfcMs8NXLnhrTcwFsSzgqR4J8QXStThgLKIYYRFFiu3bEaAnQLRXJx~1Rg0dr8ai474bI945RJqYM2ivSh3ZadNjueifReovVhUu2CFTQIM3qf8BILhBUcB5eAKSlagS0QEZYe4tagd3I6Yzl973s5xsLGEOg94OgxgRVIEAs-q-RF1avmz9~74jpPvdmBy7Uj8v~t7yot3MvASJKAahiD0ITr-x7QzZWQ__&Key-Pair-Id=KK4HN3OO4AT5R"
-      },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
-      "availability": {
-        "us": [
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "addon",
-            "addon_name": "Lifetime Movie Club",
-            "link": "https://tv.apple.com/us/movie/yes-chef-christmas/umc.cmc.2er6lfrdu08z5g4jhipfqnk7t?playableId=tvs.sbd.1000229%3A289108MOVE_E001",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "rent",
-            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp",
-            "quality": "hd",
-            "price": "2.99 USD"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp",
-            "quality": "hd",
-            "price": "4.99 USD"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "buy",
-            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp",
-            "quality": "sd",
-            "price": "3.99 USD"
-          },
-          {
-            "service_id": "apple",
-            "service_name": "Apple TV",
-            "type": "buy",
-            "link": "https://tv.apple.com/us/show/yes-chef-christmas/umc.cmc.1xqz9pe9wcbg9uy61c60u2tg6",
-            "quality": "hd"
-          },
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Lifetime Movie Club",
-            "link": "https://www.amazon.com/gp/video/detail/0SQCLVBM4MBADCQ0X66GBPQL1Y?ref_=atv_dp"
-          }
-        ],
-        "gb": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "addon",
-            "addon_name": "Sony Pictures Core",
-            "link": "https://www.amazon.co.uk/gp/video/detail/0J15GNUL1XCZH8VSOCG6D2T225?ref_=atv_dp"
-          }
-        ],
-        "pt": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "subscription",
-            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41792540-5d6f-46f4-adf4-6436d56ca5ad"
-          }
-        ],
-        "es": [
-          {
-            "service_id": "prime",
-            "service_name": "Prime Video",
-            "type": "subscription",
-            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41792540-5d6f-46f4-adf4-6436d56ca5ad"
           }
         ]
       }
