@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T09:26:20.000Z",
+  "generated_at": "2026-11-07T13:06:16.000Z",
   "attribution": {
     "text": "Streaming availability metadata and images are provided by Streaming Availability API by Movie of the Night.",
     "url": "https://www.movieofthenight.com/about/api"
   },
-  "images_allowed_until": "2027-12-12T09:26:20.000Z",
+  "images_allowed_until": "2027-12-12T13:06:16.000Z",
   "countries": [
     "us",
     "gb",
@@ -90099,7 +90099,7 @@
         "w240": "https://cdn.movieofthenight.com/show/5459075/poster/vertical/en/240.jpg?Expires=1820721880&Signature=j3NxTsg4Y~RCsJ6OMk9utW7dmremUfEPTtKa7WL-KVtkF7OgXbtJi6wGlIFAs8PD2KH3GC8okOvLvPRY1H-HcjEYkq5ACIKFZk5bW4hj1OcNQ~KqyjudXgQA6hyfDfZi2qKScEydssbCz9361czGhW~qsOl6p80C8nCKZ3o4iUqCk7yih6hMF4S8uxaPkA6z8eh~W4xjXU7bZDLbb7Ksf2hKCaUS0fr95KlVZPUxxHJAQyM~4x1Of1NJeomjNtKc-7lYgUnP8Y5ZwuuSlzv52fOwHzvj1EZCBVID2kudhgdRyIGA2QTX2otvINTVmoo-6tK~NFF-4CNLnHyA5uaAzg__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/5459075/poster/vertical/en/480.jpg?Expires=1820721880&Signature=V2do~oRHZBFx-L8OvDwDc5O2nLei0IslRaMwdwVLzi7f1ilDMqAr-be3u6bYj4tcs55Gs94P93tBhyC8ysqLwR1HlYrEGP6G3fwPQSs-2mGBaMERkWnUBqzxo1b9zmSpi-DyB8GpXMx3bPDyfKjNVZGxUi89ram4~qrWRZEtbcxXbearOMZGyfX9owMbwd7Pexw~26rUqLmtW1LWm2HmM4PpcNAP7PL-WXXNZW4okI~2EVTq2Up~Uy1eqDRtdgx8W8zbX~RbhUOKmi80Dhdlj~4RxDZ8cdLxsX2IRToYPLtYh2sQT~GbpwAmPXDcl3eaPmaP7SrnVKMsN043gnAwgw__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-07T04:51:58.000Z",
+      "fetched_at": "2026-11-07T13:06:16.000Z",
       "availability": {
         "us": [
           {
@@ -90189,6 +90189,15 @@
             "type": "addon",
             "addon_name": "STACKTV",
             "link": "https://www.primevideo.com/detail/0GN5OXQGPGOKE0SAMW82VFXNHS?ref_=atv_dp"
+          }
+        ],
+        "au": [
+          {
+            "service_id": "stan",
+            "service_name": "Stan",
+            "type": "subscription",
+            "link": "https://www.stan.com.au/watch/a-world-record-christmas-2023",
+            "quality": "hd"
           }
         ]
       }
@@ -155470,11 +155479,23 @@
       ],
       "runtime_min": 97,
       "overview": "Before Christmas morning dawns, Santa's youngest son embarks on a chaotic quest to deliver a present to a forgotten child and save the holiday spirit.",
+      "cast": [
+        "James McAvoy",
+        "Hugh Laurie",
+        "Bill Nighy",
+        "Jim Broadbent",
+        "Imelda Staunton",
+        "Ashley Jensen",
+        "Marc Wootton"
+      ],
+      "directors": [
+        "Sarah Smith"
+      ],
       "poster": {
         "w240": "https://cdn.movieofthenight.com/show/6722/poster/vertical/en/240.jpg?Expires=1820755191&Signature=lHddClPy1OaLBKFLSaXf~kSLbZV8bWC0qOTsRwUyV6lDJocIBk~pWrtZjdP9h30uMudky-PLH~a~A9gGHnyKBxqQYz-UgUVBzvCArkKiJZoMZ5Gr48KpNX39wkk-uN-GinNWvaUX5Oca4cCia8mr-wBkc1ne7tDJ5UmMuAHOK42Vr8uaq3ZqVXVHGHM4n5xzI8P4D7kVDuPbjtCbqYeR6tdjEtCRqEkM1KNZXcopqQlPPJFhsPiQUZIIZnWmg~fLqSOnJ~iXPLVr0HkzMouSEtTAcD3m5lMaEDY3hD7sza~X7WM1wIh9y3NWuHXU7UvRsD--D7HxSBVjcvC7g7M-6w__&Key-Pair-Id=KK4HN3OO4AT5R",
         "w480": "https://cdn.movieofthenight.com/show/6722/poster/vertical/en/480.jpg?Expires=1820755191&Signature=Ai1DV~wzZJvNhFsLMCMPdQbNgSSzKratbSXsFisE09mijpM2vrKhGXSKmW1TcSf-LVwDpPBwWHYRPNSoCn~xGIcg-NXpytKexLfc3bwKLygTdnNY6tkKW8vt2mcJOoM9fuwy5RF~Wr6-vU8ZME3g~Kqc~uH61KCZumkZyaef6PwdZ1xqTF2DTcQrq1iPlZHM44TjSa-LYe5cdPu-K8v30Yc6kydhEHYuOI~TB7sqnbCFIWzc-qWlyanVp620VNxa766ghNyqBVq~YEYpX9B650PCX8GZtB2FfQk-DRnZ7ZliUuWEV3TuFJeFN9zEw53JM~25iFZgZpgvbiOZrBioPg__&Key-Pair-Id=KK4HN3OO4AT5R"
       },
-      "fetched_at": "2026-11-06T14:19:59.000Z",
+      "fetched_at": "2026-11-07T13:06:16.000Z",
       "availability": {
         "us": [
           {
@@ -155633,6 +155654,13 @@
             "link": "https://www.primevideo.com/detail/0QKJVPB5IXSUTIZ5BZGHZ333OF?ref_=atv_dp",
             "quality": "hd",
             "price": "14.99 AUD"
+          },
+          {
+            "service_id": "stan",
+            "service_name": "Stan",
+            "type": "subscription",
+            "link": "https://www.stan.com.au/watch/arthur-christmas-2011",
+            "quality": "hd"
           },
           {
             "service_id": "apple",
@@ -156241,6 +156269,22 @@
           }
         ],
         "gr": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.primevideo.com/detail/0QKJVPB5IXSUTIZ5BZGHZ333OF?ref_=atv_dp",
+            "quality": "hd",
+            "price": "8.99 EUR"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.primevideo.com/detail/0QKJVPB5IXSUTIZ5BZGHZ333OF?ref_=atv_dp",
+            "quality": "hd",
+            "price": "3.99 EUR"
+          },
           {
             "service_id": "apple",
             "service_name": "Apple TV",
