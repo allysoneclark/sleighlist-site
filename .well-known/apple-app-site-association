@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5577XCSJQW.app.sleighlist"],
+        "components": [
+          { "/": "/open", "comment": "In-app event links open the app" },
+          { "/": "/open/*" }
+        ]
+      }
+    ]
+  }
+}
