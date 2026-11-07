@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T08:59:24.000Z",
+  "generated_at": "2026-11-07T09:26:20.000Z",
   "attribution": {
     "text": "Streaming availability metadata and images are provided by Streaming Availability API by Movie of the Night.",
     "url": "https://www.movieofthenight.com/about/api"
   },
-  "images_allowed_until": "2027-12-12T08:59:24.000Z",
+  "images_allowed_until": "2027-12-12T09:26:20.000Z",
   "countries": [
     "us",
     "gb",
@@ -313135,6 +313135,266 @@
             "link": "https://tv.apple.com/se/movie/jack-frost/umc.cmc.3fclpfz8ei44g6fwwvjm6m1se?playableId=tvs.sbd.9001%3A738706513",
             "quality": "sd",
             "price": "39 SEK"
+          }
+        ]
+      }
+    },
+    {
+      "tmdb_id": 27320,
+      "imdb_id": "tt0239496",
+      "title": "Jack Frost 2: Revenge of the Mutant Killer Snowman",
+      "year": 2000,
+      "format": "film",
+      "genres": [
+        "comedy",
+        "fantasy",
+        "horror"
+      ],
+      "runtime_min": 93,
+      "overview": "A lab accident resurrects the crystal killer on a tropical island but this time he can't be stopped by fire, bullets or even antifreeze.",
+      "cast": [
+        "Christopher Allport",
+        "Scott MacDonald",
+        "David Allen Brooks",
+        "Sean Patrick Murphy",
+        "Melanie Good",
+        "Tai Bennett",
+        "Jennifer Lyons"
+      ],
+      "directors": [
+        "Michael Cooney"
+      ],
+      "poster": {
+        "w240": "https://cdn.movieofthenight.com/show/42621/poster/vertical/en/240.jpg?Expires=1822207150&Signature=GhhQFPA-dsxZoRioxIFuhwwp7RGinBnqWWfbMUlSGXHu05nX24KlYw6OgpWBm3K9icn0YhwQbshVL4WW7rD0oB1bnHZ5RUYNysAiL7VqTqILLUvXwnvG81hRY7UsPGXjD7BJvq46QSpovPMleYgJb3aZo7kstDNoEDuUcSj8tZ58mmXm9emiCbNrHeA5kloXcs0VOUKWrsTWXg7Lhq4I5TT4vmMZRd~XJEKM43~mSBdqUwd8p3bNMvBUWIWpew-34FFv21QImPpWoIjZL8srGRKY--col80ThVB7X6aAoZl1HBhV2rCH5Y~ipg3rdETgRfpbGd1NmHyRWCQY1NwXhA__&Key-Pair-Id=KK4HN3OO4AT5R",
+        "w480": "https://cdn.movieofthenight.com/show/42621/poster/vertical/en/480.jpg?Expires=1822207150&Signature=jCeD0f28-HQ6wNGVV8xkQSZor-u8J8spS9Uno7szZJBC61XB-AiPV8QLszi1PZA563dW9HmMg6gExGZwkUzkZ8RssF0j7MAQ0pXRG~tLJu5vZ9nKwZPQIi1sB8OmHrN4naXlReoyubdPGBprue7y8kFm5uycZTevkR2Y3a6x1bXsnh56-74iKIJwdFad8EYGLP8LiJjDslmNegYOCBKdvYqx5aY59cP2t~dXseY8NCh3CaRwdQMYyFBrYjvHWchUQ63bJXq-~A-41KVx3lOU7mAngQJeYJm4GZZ3eqf~G6phS-UjpiKG~MfvEZXnMYMfQeY6xa~TY7OAQrIkVvT50A__&Key-Pair-Id=KK4HN3OO4AT5R"
+      },
+      "fetched_at": "2026-11-07T09:26:20.000Z",
+      "availability": {
+        "us": [
+          {
+            "service_id": "tubi",
+            "service_name": "Tubi",
+            "type": "free",
+            "link": "https://tubitv.com/movies/100032442/jack-frost-2-revenge-of-the-mutant-killer-snowman",
+            "quality": "sd"
+          }
+        ],
+        "gb": [
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/gb/movie/jack-frost-2-revenge-of-the-mutant-killer-snowman/umc.cmc.gsvdhtgigu045iho60fe21ic?playableId=tvs.sbd.9001%3A1573971860",
+            "quality": "sd",
+            "price": "1.99 GBP"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "subscription",
+            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebbd807-cf9a-ec9f-efbf-97c1c9e57043"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "free",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0KRIILXK9G8ZHHYZL1KQ2K8D37?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0KRIILXK9G8ZHHYZL1KQ2K8D37?ref_=atv_dp",
+            "quality": "sd",
+            "price": "2.49 GBP"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0KRIILXK9G8ZHHYZL1KQ2K8D37?ref_=atv_dp",
+            "quality": "sd",
+            "price": "6.99 GBP"
+          }
+        ],
+        "ie": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "subscription",
+            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebbd807-cf9a-ec9f-efbf-97c1c9e57043"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/ie/movie/jack-frost-2-revenge-of-the-mutant-killer-snowman/umc.cmc.gsvdhtgigu045iho60fe21ic?playableId=tvs.sbd.9001%3A1573971860",
+            "quality": "sd",
+            "price": "2.49 EUR"
+          }
+        ]
+      }
+    },
+    {
+      "tmdb_id": 26538,
+      "imdb_id": "tt0079357",
+      "title": "Jack Frost",
+      "year": 1979,
+      "format": "tv_special",
+      "genres": [
+        "adventure",
+        "animation"
+      ],
+      "runtime_min": 48,
+      "overview": "The animated stop-motion classic from Rankin & Bass about how Jack Frost became a human and helped a valiant knight win over his maiden love.",
+      "cast": [
+        "Buddy Hackett",
+        "Robert Morse",
+        "Paul Frees",
+        "Larry Storch",
+        "Dave Garroway",
+        "Debra Clinger",
+        "Don Messick"
+      ],
+      "directors": [
+        "Jules Bass",
+        "Arthur Rankin Jr."
+      ],
+      "poster": {
+        "w240": "https://cdn.movieofthenight.com/show/37865/poster/vertical/en/240.jpg?Expires=1822241697&Signature=LTPb3aozlnDlSt9sPYgyH9RM7H4rbyVL4JFaEySjLEorYjXqZvsCyAAvsAseH1d6CEFxLbiBI3iXaaeirikEFFZTl8KZPhZMsiN-X2RAWN1MGu~wk7UcyLokURzBTesiX9pbpfUTS0-abD-Rs531-d0FszV73QjFb~~m63zzzKYQtcPdzj00y5hABcuiPw9~T-fUamRzAQiFPFEVmoY8KGWijmkzOQzJ3g5YQc7~M4EsQ62GL2xZCI8FQUxv28xX73xZdXdL8Oqjl74r4P~uxMqADUSloLA5inQeCIvcczOFPfDAPqlAK2gdtXHdTrRgmS8EtdEIrB7fA3ZwUXdTTQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+        "w480": "https://cdn.movieofthenight.com/show/37865/poster/vertical/en/480.jpg?Expires=1822241697&Signature=SDJ-ls~CYelZ910N5Q4b~54FPw3MNoJzBmX2j-WnzrFDDVNfREmooUITM~lRvklCymKoVQ0mTnRqkmW-aLZxrixWbJ8TwhjFOhYs-LdyqmvIqO~5vAnVLAAfJAQcyiZ6CQ6fUE7Qm2KpWJCzsWULUAvDzguP9PO-4tsNGmKvUVzXfSaBG7vWXKCLjAI5p7bAkOuiKxJTC7dlgrw9UMqpXKULV-yy7HluQki8SAwE50xiF3-jzNsniv5gPhEhiY5JHGYA10vJq5rBf6NW4XJmixY8cc85SqNX4qGOUThc1Inj-NPYYc8iZE943logUzXQkXXdWK5ZsfAFinGhRUoWRg__&Key-Pair-Id=KK4HN3OO4AT5R"
+      },
+      "fetched_at": "2026-11-07T09:26:20.000Z",
+      "availability": {
+        "us": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "subscription",
+            "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7aa9f66f-9d91-051e-4abd-b27055459d4f"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "addon",
+            "addon_name": "iNDIEFLIX",
+            "link": "https://www.amazon.com/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.com/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp",
+            "quality": "hd",
+            "price": "3.99 USD"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.com/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp",
+            "quality": "hd",
+            "price": "9.99 USD"
+          },
+          {
+            "service_id": "tubi",
+            "service_name": "Tubi",
+            "type": "free",
+            "link": "https://tubitv.com/movies/545176/jack-frost",
+            "quality": "sd"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "rent",
+            "link": "https://tv.apple.com/us/movie/jack-frost/umc.cmc.5on3sfthxeywxg0kq1jzcsm8t?playableId=tvs.sbd.9001%3A372956635",
+            "quality": "hd",
+            "price": "3.99 USD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/us/movie/jack-frost/umc.cmc.5on3sfthxeywxg0kq1jzcsm8t?playableId=tvs.sbd.9001%3A372956635",
+            "quality": "hd",
+            "price": "9.99 USD"
+          }
+        ],
+        "gb": [
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp",
+            "quality": "hd",
+            "price": "3.49 GBP"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp",
+            "quality": "hd",
+            "price": "11.99 GBP"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "rent",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp",
+            "quality": "sd",
+            "price": "2.49 GBP"
+          },
+          {
+            "service_id": "prime",
+            "service_name": "Prime Video",
+            "type": "buy",
+            "link": "https://www.amazon.co.uk/gp/video/detail/0MF1HTOJP776FOP18ZC957WXN3?ref_=atv_dp",
+            "quality": "sd",
+            "price": "9.99 GBP"
+          }
+        ],
+        "ca": [
+          {
+            "service_id": "tubi",
+            "service_name": "Tubi",
+            "type": "free",
+            "link": "https://tubitv.com/movies/545176/jack-frost",
+            "quality": "sd"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "buy",
+            "link": "https://tv.apple.com/ca/movie/jack-frost/umc.cmc.5on3sfthxeywxg0kq1jzcsm8t?playableId=tvs.sbd.9001%3A372956635",
+            "quality": "hd",
+            "price": "9.99 CAD"
+          },
+          {
+            "service_id": "apple",
+            "service_name": "Apple TV",
+            "type": "rent",
+            "link": "https://tv.apple.com/ca/movie/jack-frost/umc.cmc.5on3sfthxeywxg0kq1jzcsm8t?playableId=tvs.sbd.9001%3A372956635",
+            "quality": "hd",
+            "price": "4.99 CAD"
+          }
+        ],
+        "au": [
+          {
+            "service_id": "tubi",
+            "service_name": "Tubi",
+            "type": "free",
+            "link": "https://tubitv.com/movies/545176/jack-frost",
+            "quality": "sd"
+          }
+        ],
+        "nz": [
+          {
+            "service_id": "tubi",
+            "service_name": "Tubi",
+            "type": "free",
+            "link": "https://tubitv.com/movies/545176/jack-frost",
+            "quality": "sd"
           }
         ]
       }
