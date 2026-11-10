@@ -65,7 +65,7 @@ select{background:var(--bg);color:var(--ink);border:1px solid var(--line);border
       var seen = {}, rows = [];
       opts.slice().sort(function(a,b){return order.indexOf(a.type)-order.indexOf(b.type);}).forEach(function(o){
         var name = o.addon_name || o.service_name, key = name+'|'+o.type;
-        if (seen[key]) return; seen[key]=1;
+        if (seen[key] || !/^https:\/\//.test(o.link||'')) return; seen[key]=1;
         rows.push('<div class="opt"><a href="'+esc(o.link)+'" rel="noopener">'+esc(name)+'</a><span>'+esc(kinds[o.type]||o.type)+'</span></div>');
       });
       var labels = (m.format==='series'?'<span class="label">Series</span>':m.format==='tv_special'?'<span class="label">TV special</span>':'') +
