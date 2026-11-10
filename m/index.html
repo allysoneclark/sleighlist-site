@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sleigh List · Christmas movie</title>
+<meta name="description" content="Where to stream this Christmas movie, from Sleigh List.">
+<meta property="og:title" content="A Christmas movie from Sleigh List">
+<meta property="og:description" content="See where it's streaming tonight.">
+<meta property="og:site_name" content="Sleigh List">
+<meta name="apple-itunes-app" content="app-id=6830327776">
+<link rel="stylesheet" href="/style.css">
+<!-- Shared movie page (1.2). One page for every movie and series: the app
+     shares sleighlist.app/m/?id=<id>; this page reads the public movie list
+     and shows where it streams. With Sleigh List installed, iOS opens the
+     movie in the app instead (universal link, see /.well-known). -->
+<style>
+.movie{display:flex;gap:18px;align-items:flex-start}
+.poster{flex:0 0 96px;height:144px;border-radius:10px;background:linear-gradient(160deg,#2b4a78,#0b1527);display:flex;align-items:flex-end;padding:8px;font:700 13px/1.2 Georgia,serif;color:var(--ink);border:1px solid var(--line)}
+.poster b{color:var(--accent);display:block;font-size:22px;margin-bottom:auto}
+.meta{color:var(--muted);font-size:15px;margin:2px 0 10px}
+.label{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:0 10px;font-size:13px;color:var(--muted);margin-right:6px}
+.where{margin-top:22px}
+.where h2{margin:0 0 8px}
+.opt{display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-top:1px solid var(--line)}
+.opt:first-of-type{border-top:0}
+.opt span{color:var(--muted);font-size:15px}
+select{background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:4px 8px;font-size:15px}
+.cta{display:block;text-align:center;margin-top:22px;background:var(--accent);color:#0f1b2d;font-weight:700;text-decoration:none;border-radius:999px;padding:12px}
+.small{font-size:13px;color:var(--muted);margin-top:10px;text-align:center}
+</style>
+</head>
+<body>
+<main>
+<header><a href="/" class="brand">Sleigh <span>List</span></a><div class="tag">Track, rate and find where to stream Christmas movies.</div></header>
+<div class="card" id="card" style="margin-top:28px"><p class="note">Loading…</p></div>
+<a class="cta" href="https://apps.apple.com/app/sleigh-list-christmas-movies/id6830327776">Get Sleigh List on the App Store</a>
+<p class="small">Free to download. Track what you've watched, save a holiday watchlist and see where every Christmas movie is streaming.</p>
+<footer id="credit">&copy; 2026 Sleigh List</footer>
+</main>
+<script>
+(function () {
+  var card = document.getElementById('card');
+  var id = Number(new URLSearchParams(location.search).get('id'));
+  var names = {us:'United States',gb:'United Kingdom',ca:'Canada',au:'Australia',nz:'New Zealand',ph:'Philippines',no:'Norway',ch:'Switzerland',is:'Iceland',za:'South Africa',sg:'Singapore'};
+  var kinds = {subscription:'Included with subscription',free:'Free',addon:'With an add-on',rent:'Rent',buy:'Buy'};
+  function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  function guessCountry(){
+    var langs = navigator.languages || [navigator.language || ''];
+    for (var i=0;i<langs.length;i++){var p=(langs[i]||'').split('-');if(p[1]&&names[p[1].toLowerCase()])return p[1].toLowerCase();}
+    return 'us';
+  }
+  function fail(msg){card.innerHTML='<h1>Christmas movies on Sleigh List</h1><p class="note">'+msg+'</p>';}
+  if (!id) { fail('This link is missing its movie. Get the app to see every Christmas movie and where it streams.'); return; }
+  fetch('/data/availability.json').then(function(r){return r.json();}).then(function(d){
+    var all = (d.movies||[]).concat(d.series||[]);
+    var m = all.filter(function(x){return x.tmdb_id===id;})[0];
+    if (d.attribution) document.getElementById('credit').innerHTML='&copy; 2026 Sleigh List · <a href="'+esc(d.attribution.url)+'">'+esc(d.attribution.text)+'</a>';
+    if (!m) { fail('We couldn\'t find that title. It may have left the list.'); return; }
+    document.title = m.title + ' · Sleigh List';
+    var country = guessCountry();
+    function render(){
+      var opts = (m.availability||{})[country] || [];
+      var order = ['free','subscription','addon','rent','buy'];
+      var seen = {}, rows = [];
+      opts.slice().sort(function(a,b){return order.indexOf(a.type)-order.indexOf(b.type);}).forEach(function(o){
+        var name = o.addon_name || o.service_name, key = name+'|'+o.type;
+        if (seen[key]) return; seen[key]=1;
+        rows.push('<div class="opt"><a href="'+esc(o.link)+'" rel="noopener">'+esc(name)+'</a><span>'+esc(kinds[o.type]||o.type)+'</span></div>');
+      });
+      var labels = (m.format==='series'?'<span class="label">Series</span>':m.format==='tv_special'?'<span class="label">TV special</span>':'') +
+                   ((m.genres||[]).indexOf('horror')>=0?'<span class="label">Horror</span>':'');
+      var length = m.format==='series' ? (m.seasons>1 ? m.seasons+' seasons' : (m.episodes ? m.episodes+' episodes' : '')) :
+                   (m.runtime_min ? Math.floor(m.runtime_min/60)+'h '+(m.runtime_min%60)+'m' : '');
+      var select = '<select id="c" aria-label="Country">'+Object.keys(names).map(function(k){return '<option value="'+k+'"'+(k===country?' selected':'')+'>'+names[k]+'</option>';}).join('')+'</select>';
+      card.innerHTML =
+        '<div class="movie"><div class="poster"><b>★</b>'+esc(m.title)+'</div><div>'+
+        '<h1>'+esc(m.title)+'</h1><div class="meta">'+[m.year,length].filter(Boolean).join(' · ')+'</div>'+labels+
+        '</div></div>'+(m.overview?'<p>'+esc(m.overview)+'</p>':'')+
+        '<div class="where"><h2>Where to watch in '+select+'</h2>'+
+        (rows.length?rows.join(''):'<p class="note">Not streaming here right now. Sleigh List checks every day.</p>')+'</div>';
+      document.getElementById('c').onchange=function(e){country=e.target.value;render();};
+    }
+    render();
+  }).catch(function(){ fail('Couldn\'t load the movie list. Please try again.'); });
+})();
+</script>
+</body>
+</html>

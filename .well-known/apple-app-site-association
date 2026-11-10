@@ -5,7 +5,9 @@
         "appIDs": ["5577XCSJQW.app.sleighlist"],
         "components": [
           { "/": "/open", "comment": "In-app event links open the app" },
-          { "/": "/open/*" }
+          { "/": "/open/*" },
+          { "/": "/m", "comment": "Shared movie links (1.2) open the movie in the app" },
+          { "/": "/m/*" }
         ]
       }
     ]
