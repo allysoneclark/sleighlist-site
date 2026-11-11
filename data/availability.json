@@ -1050,6 +1050,30 @@
             "link": "https://www.primevideo.com/detail/0GQQ2QJKO0DQJFO3WQYBRRJ5YC?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_comedy",
+          "family_drama"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "family_chaos",
+          "one_night"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -1184,6 +1208,31 @@
             "price": "9.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "royal_romance",
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "royal"
+        ],
+        "tropes": [
+          "baking_contest",
+          "hometown"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -1338,6 +1387,29 @@
             "link": "https://pluto.tv/gsa/on-demand/movies/65d47af2794da50014066547/details"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town",
+          "family_business"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "great_american"
       }
     },
     {
@@ -1468,6 +1540,26 @@
             "link": "https://www.primevideo.com/detail/0NF21X94A4BQ78XKFYL4ITJ5KG?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "baking_contest"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -1911,6 +2003,29 @@
             "link": "https://www.netflix.com/title/81779949"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -2123,6 +2238,22 @@
             "price": "3.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "setting",
+        "types": [
+          "horror"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "remake"
       }
     },
     {
@@ -2431,6 +2562,24 @@
             "link": "https://pluto.tv/gsa/on-demand/movies/6752bfe32678a500140b9998/details"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "mystery"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -2729,6 +2878,25 @@
             "price": "3.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "royal_romance",
+          "romcom"
+        ],
+        "moods": [
+          "romantic",
+          "heartwarming"
+        ],
+        "for": [
+          "date_night",
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -2869,6 +3037,27 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd2094c8-d9b1-41bf-884b-402c9dfcde70"
           }
         ]
+      },
+      "labels": {
+        "xmas": "setting",
+        "types": [
+          "mystery",
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -2960,6 +3149,32 @@
             "price": "9.99 CAD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "angels_miracles",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "tearjerker"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "big_city"
+        ],
+        "tropes": [
+          "widowed",
+          "single_parent",
+          "save_business"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -3034,6 +3249,30 @@
             "expires_on": "2027-01-01"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "family_business"
+        ],
+        "tropes": [
+          "enemies_to_lovers"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -3200,6 +3439,27 @@
             "price": "5.99 NZD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "setting",
+        "types": [
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "nostalgic"
+        ],
+        "for": [
+          "family"
+        ],
+        "settings": [
+          "warm_weather"
+        ],
+        "tropes": [
+          "save_business"
+        ],
+        "style": "live_action",
+        "source": "remake"
       }
     },
     {
@@ -3312,6 +3572,25 @@
             "price": "9.99 USD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_drama",
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -3434,6 +3713,29 @@
             "link": "https://www.primevideo.com/detail/0P8HUNI5F99W6WWV6Y5D5FN867?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "snowy_getaway"
+        ],
+        "tropes": [
+          "hometown"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -3589,6 +3891,33 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c22f9508-c531-462a-b350-6dbd9ea95a78"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "family_business"
+        ],
+        "tropes": [
+          "save_business",
+          "hometown",
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -3736,6 +4065,29 @@
             "price": "4.99 CAD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -3875,6 +4227,30 @@
             "price": "4.99 CAD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_drama",
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "family"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "family_chaos"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -3995,6 +4371,31 @@
             "link": "https://www.amazon.co.uk/gp/video/detail/0S29GCUIX8AEW1CK505Y1QW52P?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "angels_miracles",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "magical"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "wish_comes_true",
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -4075,6 +4476,27 @@
             "link": "https://www.amazon.com/gp/video/detail/0NO2A8YVXBM3KYE30M3VEO7CGD?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "lifetime"
       }
     },
     {
@@ -4714,6 +5136,28 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -4769,6 +5213,19 @@
             "expires_on": "2031-01-01"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_comedy"
+        ],
+        "moods": [
+          "funny"
+        ],
+        "for": [],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -4885,6 +5342,28 @@
             "link": "https://www.amcplus.com/movies/where-god-left-his-shoes--1026900"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_drama"
+        ],
+        "moods": [
+          "tearjerker",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [
+          "big_city"
+        ],
+        "tropes": [
+          "one_night",
+          "single_parent"
+        ],
+        "style": "live_action",
+        "network": "independent"
       }
     },
     {
@@ -5114,6 +5593,29 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [
+          "family_business"
+        ],
+        "tropes": [
+          "save_business"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -5287,6 +5789,30 @@
             "price": "3.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "save_business"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -5472,6 +5998,33 @@
             "link": "https://www.primevideo.com/detail/0MXWTS9ZA54JBXHYP3GG2T5QO0?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "time_loops_swaps",
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night",
+          "family"
+        ],
+        "settings": [
+          "small_town",
+          "big_city"
+        ],
+        "tropes": [
+          "hometown",
+          "single_parent",
+          "family_chaos"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -5669,6 +6222,29 @@
             "expires_on": "2034-01-01"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "date_night",
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -6431,6 +7007,23 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "documentary",
+          "concerts_specials"
+        ],
+        "moods": [
+          "nostalgic",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -6748,6 +7341,25 @@
             "expires_on": "9999-12-31"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "horror",
+          "family_drama"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [
+          "hometown",
+          "family_chaos"
+        ],
+        "style": "live_action"
       }
     },
     {
@@ -6878,6 +7490,29 @@
             "link": "https://www.amazon.de/gp/video/detail/0QA1BEI0Y0J1OLRKHTWDRHPHUQ?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "romcom"
+        ],
+        "moods": [
+          "funny",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "single_parent"
+        ],
+        "style": "live_action",
+        "source": "book",
+        "network": "hallmark"
       }
     },
     {
@@ -6922,6 +7557,20 @@
             "expires_on": "2031-01-01"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "heartwarming"
+        ],
+        "for": [],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -7693,6 +8342,27 @@
             "price": "69 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "time_loops_swaps",
+          "family_comedy"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "family"
+        ],
+        "settings": [],
+        "tropes": [
+          "family_chaos",
+          "one_night"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -7863,6 +8533,29 @@
             "price": "3.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "animated",
+          "elves_magic"
+        ],
+        "moods": [
+          "heartwarming",
+          "nostalgic"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "santa_is_real"
+        ],
+        "style": "animation",
+        "source": "song"
       }
     },
     {
@@ -7927,6 +8620,22 @@
             "link": "https://www.primevideo.com/detail/0LX9CCWVAJ2ZHGB9JLJ843IRJR?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "heartwarming"
+        ],
+        "for": [
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -9098,6 +9807,29 @@
             "price": "109 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "christmas_carol",
+          "animated"
+        ],
+        "moods": [
+          "heartwarming",
+          "funny"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [],
+        "tropes": [
+          "ghostly_visitors",
+          "saving_christmas"
+        ],
+        "style": "animation",
+        "source": "christmas_carol",
+        "franchise": "All Dogs Go to Heaven"
       }
     },
     {
@@ -9255,6 +9987,24 @@
             "price": "7.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -9337,6 +10087,30 @@
             "price": "7.99 USD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "animated",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "saving_christmas"
+        ],
+        "style": "animation",
+        "source": "sequel",
+        "franchise": "Jingle the Husky Pup"
       }
     },
     {
@@ -9517,6 +10291,24 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.097adbdc-3dde-46c9-a121-7c6817962d63"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -9997,6 +10789,25 @@
             "price": "45 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "horror"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [
+          "widowed"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -10178,6 +10989,30 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c234c35c-a408-4b0e-8e7d-ad377d23287e"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "single_parent"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -10284,6 +11119,29 @@
             "price": "3.99 USD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "heartwarming",
+          "cheesy"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "single_parent",
+          "grumpy_sunshine",
+          "wish_comes_true"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -10489,6 +11347,30 @@
             "price": "4.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "mystery",
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "single_parent"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -10691,6 +11573,28 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c40609f4-0f96-4a1b-b7f7-647bfde3fd05"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "romcom"
+        ],
+        "moods": [
+          "funny",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "snowy_getaway"
+        ],
+        "tropes": [
+          "fake_dating"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -11156,6 +12060,28 @@
             "price": "2.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "romcom",
+          "holiday_romance"
+        ],
+        "moods": [
+          "funny",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "wish_comes_true"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -11588,6 +12514,25 @@
             "price": "12.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "concerts_specials",
+          "musical"
+        ],
+        "moods": [
+          "heartwarming",
+          "magical"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -11682,6 +12627,31 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.775b3bd5-31eb-4f1d-b5ee-3ad5107e2dd0"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "animated",
+          "santa_north_pole",
+          "family_comedy"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [
+          "north_pole"
+        ],
+        "tropes": [
+          "saving_christmas",
+          "santa_is_real"
+        ],
+        "style": "animation",
+        "source": "original"
       }
     },
     {
@@ -12025,6 +12995,25 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "setting",
+        "types": [
+          "mystery",
+          "family_drama"
+        ],
+        "moods": [
+          "tearjerker"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [
+          "big_city"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -12565,6 +13554,30 @@
             "price": "89 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "santa_north_pole",
+          "elves_magic",
+          "family_comedy"
+        ],
+        "moods": [
+          "magical",
+          "heartwarming"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [],
+        "tropes": [
+          "elf_human_world",
+          "saving_christmas",
+          "santa_is_real"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -13732,6 +14745,30 @@
             "link": "https://www.netflix.com/title/60020996"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "animated",
+          "elves_magic",
+          "musical"
+        ],
+        "moods": [
+          "magical",
+          "heartwarming"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [],
+        "tropes": [
+          "wish_comes_true",
+          "saving_christmas"
+        ],
+        "style": "animation",
+        "source": "book",
+        "franchise": "Barbie"
       }
     },
     {
@@ -13992,6 +15029,33 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f798623c-c871-4f38-b9dd-99700fd59fa7"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "family_business"
+        ],
+        "tropes": [
+          "save_business",
+          "single_parent",
+          "widowed",
+          "enemies_to_lovers"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -14131,6 +15195,26 @@
             "price": "4.99 CAD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -14262,6 +15346,27 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_comedy"
+        ],
+        "moods": [
+          "funny",
+          "nostalgic"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [
+          "family_chaos",
+          "one_night"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -14628,6 +15733,29 @@
             "link": "https://www.netflix.com/title/81696237"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "musical"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -14975,6 +16103,29 @@
             "link": "https://www.netflix.com/title/81696232"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "enemies_to_lovers"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "great_american"
       }
     },
     {
@@ -15107,6 +16258,29 @@
             "price": "10.99 CAD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "snowy_getaway",
+          "family_business"
+        ],
+        "tropes": [
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -15292,6 +16466,29 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "single_parent"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -15467,6 +16664,27 @@
             "link": "https://plus.rtl.de/operation-nussknacker-der-vertauschte-weihnachtskoffer-p_68473"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "mystery"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "enemies_to_lovers"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -15873,6 +17091,27 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.976072b5-94fe-4f00-a31a-f45606b34354"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "santa_north_pole",
+          "family_comedy"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [],
+        "tropes": [
+          "saving_christmas"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -16157,6 +17396,30 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b70172-1d5a-4eb9-a3aa-a83cf5992771"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "enemies_to_lovers",
+          "ugly_sweater"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -16255,6 +17518,22 @@
             "price": "7.99 NZD"
           }
         ]
+      },
+      "labels": {
+        "xmas": "setting",
+        "types": [
+          "family_comedy"
+        ],
+        "moods": [
+          "funny"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -16716,6 +17995,31 @@
             "price": "2.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "santa_north_pole",
+          "family_comedy"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [
+          "north_pole"
+        ],
+        "tropes": [
+          "santa_is_real",
+          "saving_christmas"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -17200,6 +18504,27 @@
             "price": "9.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_comedy",
+          "romcom"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "family_chaos",
+          "hometown"
+        ],
+        "style": "live_action"
       }
     },
     {
@@ -17530,6 +18855,30 @@
             "price": "3.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_drama",
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "wish_comes_true"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -17844,6 +19193,25 @@
             "price": "49 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "setting",
+        "types": [
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "funny"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [
+          "one_night"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -18194,6 +19562,23 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "horror"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -18668,6 +20053,32 @@
             "price": "69 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "musical"
+        ],
+        "moods": [
+          "romantic",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "big_city",
+          "family_business"
+        ],
+        "tropes": [
+          "save_business",
+          "enemies_to_lovers",
+          "widowed"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -19053,6 +20464,25 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "horror"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -19409,6 +20839,22 @@
             "price": "99.00 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_comedy"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "family"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -19742,6 +21188,30 @@
             "expires_on": "2027-03-31"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "single_parent"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -19911,6 +21381,27 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "animated",
+          "elves_magic"
+        ],
+        "moods": [
+          "magical",
+          "heartwarming"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [],
+        "tropes": [
+          "saving_christmas"
+        ],
+        "style": "animation",
+        "source": "book"
       }
     },
     {
@@ -20090,6 +21581,25 @@
             "expires_on": "2029-09-30"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -20269,6 +21779,30 @@
             "expires_on": "2029-09-30"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "widowed",
+          "single_parent"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -20479,6 +22013,27 @@
             "expires_on": "2029-09-30"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "romantic",
+          "cheesy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "enemies_to_lovers"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -20581,6 +22136,23 @@
             "price": "49 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -21080,6 +22652,31 @@
             "expires_on": "2027-03-31"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "family_business"
+        ],
+        "tropes": [
+          "save_business",
+          "tree_farm"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -21600,6 +23197,28 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "romantic",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "enemies_to_lovers"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "lifetime"
       }
     },
     {
@@ -22064,6 +23683,30 @@
             "price": "2.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "animated",
+          "santa_north_pole",
+          "elves_magic"
+        ],
+        "moods": [
+          "heartwarming",
+          "magical"
+        ],
+        "for": [
+          "little_kids",
+          "family"
+        ],
+        "settings": [
+          "north_pole"
+        ],
+        "tropes": [
+          "saving_christmas"
+        ],
+        "style": "animation",
+        "source": "original"
       }
     },
     {
@@ -22388,6 +24031,26 @@
             "price": "9.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "cheesy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "big_city"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -22609,6 +24272,29 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.939ec817-a517-45e1-8499-7c5a1dea7e95"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "cozy",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -22693,6 +24379,26 @@
             "price": "3.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "romcom",
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "funny"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "lifetime"
       }
     },
     {
@@ -22887,6 +24593,25 @@
             "price": "7.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "mystery",
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -23298,6 +25023,24 @@
             "quality": "uhd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "concerts_specials"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "franchise": "Carpool Karaoke"
       }
     },
     {
@@ -23999,6 +25742,29 @@
             "price": "89 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "romcom"
+        ],
+        "moods": [
+          "romantic",
+          "heartwarming"
+        ],
+        "for": [
+          "date_night",
+          "grown_ups"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "wish_comes_true"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -24656,6 +26422,24 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "faith_nativity",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "tearjerker"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -25096,6 +26880,29 @@
             "expires_on": "2032-11-23"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "musical"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -25465,6 +27272,30 @@
             "price": "6.99 EUR"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "christmas_carol",
+          "family_comedy"
+        ],
+        "moods": [
+          "heartwarming",
+          "funny"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "big_city"
+        ],
+        "tropes": [
+          "ghostly_visitors"
+        ],
+        "style": "live_action",
+        "source": "christmas_carol",
+        "network": "hallmark"
       }
     },
     {
@@ -25544,6 +27375,25 @@
             "link": "https://www.primevideo.com/detail/0OG0YQJCQIF8KG2D4M0Z7J7DYR?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance",
+          "family_drama"
+        ],
+        "moods": [
+          "heartwarming",
+          "cozy"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -25596,6 +27446,26 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c3fdea3b-6e24-4584-ac84-a697b30367c3"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "wish_comes_true"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -25699,6 +27569,29 @@
             "expires_on": "2029-02-19"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "romcom",
+          "holiday_romance"
+        ],
+        "moods": [
+          "funny",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [
+          "fake_dating",
+          "family_chaos",
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -26268,6 +28161,26 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "royal_romance",
+          "time_loops_swaps"
+        ],
+        "moods": [
+          "romantic",
+          "cheesy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "royal"
+        ],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -26420,6 +28333,25 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42d33751-87a2-4379-a192-eaefc9205bf3"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "horror"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [
+          "ghostly_visitors"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
@@ -26576,6 +28508,23 @@
             "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f16eb139-d678-416e-95bd-e894df8cc1ce"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action"
       }
     },
     {
@@ -26628,6 +28577,28 @@
             "link": "https://www.amazon.com/gp/video/detail/0TJNAR0NJ3RVX68XVVV4UCMUUC?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "cozy",
+          "romantic"
+        ],
+        "for": [
+          "family",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "family_business"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "great_american"
       }
     },
     {
@@ -26731,6 +28702,26 @@
             "link": "https://www.primevideo.com/detail/0OH22K2NNLN8ELTPGEON8FO3ED?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "family_business"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -26832,6 +28823,29 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "holiday_romance"
+        ],
+        "moods": [
+          "heartwarming",
+          "romantic"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town"
+        ],
+        "tropes": [
+          "hometown",
+          "second_chance"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -26893,6 +28907,30 @@
             "expires_on": "2030-12-03"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "royal_romance",
+          "holiday_romance"
+        ],
+        "moods": [
+          "romantic",
+          "cheesy"
+        ],
+        "for": [
+          "grown_ups",
+          "date_night"
+        ],
+        "settings": [
+          "small_town",
+          "royal"
+        ],
+        "tropes": [
+          "inherits"
+        ],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -27222,6 +29260,27 @@
             "quality": "uhd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "faith_nativity",
+          "documentary"
+        ],
+        "moods": [
+          "heartwarming",
+          "nostalgic"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "historical"
+        ],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -27787,6 +29846,23 @@
             "price": "39 SEK"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "action_thriller",
+          "mystery"
+        ],
+        "moods": [
+          "scary"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -27935,6 +30011,23 @@
             "link": "https://www.primevideo.com/detail/0KTKTYVD2F78GUS1SZ6M94EL3H?ref_=atv_dp"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "mystery"
+        ],
+        "moods": [
+          "cozy",
+          "cheesy"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original"
       }
     },
     {
@@ -27980,6 +30073,29 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "concerts_specials"
+        ],
+        "moods": [
+          "cozy",
+          "heartwarming"
+        ],
+        "for": [
+          "family",
+          "grown_ups"
+        ],
+        "settings": [
+          "big_city"
+        ],
+        "tropes": [
+          "holiday_market"
+        ],
+        "style": "live_action",
+        "source": "original",
+        "network": "hallmark"
       }
     },
     {
@@ -28125,6 +30241,25 @@
             "quality": "hd"
           }
         ]
+      },
+      "labels": {
+        "xmas": "story",
+        "types": [
+          "family_comedy",
+          "family_drama"
+        ],
+        "moods": [
+          "funny",
+          "heartwarming"
+        ],
+        "for": [
+          "grown_ups"
+        ],
+        "settings": [],
+        "tropes": [],
+        "style": "live_action",
+        "source": "original",
+        "network": "independent"
       }
     },
     {
