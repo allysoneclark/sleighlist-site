@@ -11,8 +11,8 @@
 <meta name="apple-itunes-app" content="app-id=6830327776">
 <link rel="stylesheet" href="/style.css">
 <!-- Shared movie page (1.2). One page for every movie and series: the app
-     shares sleighlist.app/m/?id=<id>; this page reads the public movie list
-     and shows where it streams. With Sleigh List installed, iOS opens the
+     shares sleighlist.app/m/?id=<id>; this page asks the Sleigh List 'movie'
+     function for one title in one country. With Sleigh List installed, iOS opens the
      movie in the app instead (universal link, see /.well-known). -->
 <style>
 .movie{display:flex;gap:18px;align-items:flex-start}
@@ -52,18 +52,39 @@ select{background:var(--bg);color:var(--ink);border:1px solid var(--line);border
   }
   function fail(msg){card.innerHTML='<h1>Christmas movies on Sleigh List</h1><p class="note">'+msg+'</p>';}
   if (!id) { fail('This link is missing its movie. Get the app to see every Christmas movie and where it streams.'); return; }
-  fetch('/data/availability.json').then(function(r){return r.json();}).then(function(d){
-    var all = (d.movies||[]).concat(d.series||[]);
-    var m = all.filter(function(x){return x.tmdb_id===id;})[0];
-    if (d.attribution) document.getElementById('credit').innerHTML='&copy; 2026 Sleigh List · <a href="'+esc(d.attribution.url)+'">'+esc(d.attribution.text)+'</a>';
-    if (!m) { fail('We couldn\'t find that title. It may have left the list.'); return; }
-    document.title = m.title + ' · Sleigh List';
-    var country = guessCountry();
-    function render(){
-      var opts = (m.availability||{})[country] || [];
+  // 12 Nov 2026: the movie data is private. The page asks a small Sleigh
+  // List function for this one movie in one country. The old public file is
+  // only a fallback until it is retired.
+  var FN = 'https://exbzthbmbiykfbspwilt.supabase.co/functions/v1/movie';
+  var KEY = 'sb_publishable_MHDLO8hf4g4eZPfzkG782g_aGF3v0IJ';
+  var country = guessCountry();
+  var first = true;
+  function viaFunction(cc){
+    return fetch(FN+'?id='+id+'&country='+cc,{headers:{apikey:KEY}}).then(function(r){
+      if (r.status===404) return {missing:true};
+      if (!r.ok) throw new Error('fn '+r.status);
+      return r.json();
+    });
+  }
+  function viaPublicFile(cc){
+    return fetch('/data/availability.json').then(function(r){return r.json();}).then(function(d){
+      var m = (d.movies||[]).concat(d.series||[]).filter(function(x){return x.tmdb_id===id;})[0];
+      if (!m) return {missing:true};
+      var copy = {}; for (var k in m) if (k!=='availability') copy[k]=m[k];
+      copy.options = ((m.availability||{})[cc]||[]);
+      return {movie:copy, attribution:d.attribution};
+    });
+  }
+  function show(cc){
+    viaFunction(cc).catch(function(){ return viaPublicFile(cc); }).then(function(res){
+      if (res.missing) { fail('We couldn\'t find that title. It may have left the list.'); return; }
+      var m = res.movie;
+      if (first && res.attribution) document.getElementById('credit').innerHTML='&copy; 2026 Sleigh List · <a href="'+esc(res.attribution.url)+'">'+esc(res.attribution.text)+'</a>';
+      first = false;
+      document.title = m.title + ' · Sleigh List';
       var order = ['free','subscription','addon','rent','buy'];
       var seen = {}, rows = [];
-      opts.slice().sort(function(a,b){return order.indexOf(a.type)-order.indexOf(b.type);}).forEach(function(o){
+      (m.options||[]).slice().sort(function(a,b){return order.indexOf(a.type)-order.indexOf(b.type);}).forEach(function(o){
         var name = o.addon_name || o.service_name, key = name+'|'+o.type;
         if (seen[key] || !/^https:\/\//.test(o.link||'')) return; seen[key]=1;
         rows.push('<div class="opt"><a href="'+esc(o.link)+'" rel="noopener">'+esc(name)+'</a><span>'+esc(kinds[o.type]||o.type)+'</span></div>');
@@ -72,17 +93,17 @@ select{background:var(--bg);color:var(--ink);border:1px solid var(--line);border
                    ((m.genres||[]).indexOf('horror')>=0?'<span class="label">Horror</span>':'');
       var length = m.format==='series' ? (m.seasons>1 ? m.seasons+' seasons' : (m.episodes ? m.episodes+' episodes' : '')) :
                    (m.runtime_min ? Math.floor(m.runtime_min/60)+'h '+(m.runtime_min%60)+'m' : '');
-      var select = '<select id="c" aria-label="Country">'+Object.keys(names).map(function(k){return '<option value="'+k+'"'+(k===country?' selected':'')+'>'+names[k]+'</option>';}).join('')+'</select>';
+      var select = '<select id="c" aria-label="Country">'+Object.keys(names).map(function(k){return '<option value="'+k+'"'+(k===cc?' selected':'')+'>'+names[k]+'</option>';}).join('')+'</select>';
       card.innerHTML =
         '<div class="movie"><div class="poster"><b>★</b>'+esc(m.title)+'</div><div>'+
         '<h1>'+esc(m.title)+'</h1><div class="meta">'+[m.year,length].filter(Boolean).join(' · ')+'</div>'+labels+
         '</div></div>'+(m.overview?'<p>'+esc(m.overview)+'</p>':'')+
         '<div class="where"><h2>Where to watch in '+select+'</h2>'+
         (rows.length?rows.join(''):'<p class="note">Not streaming here right now. Sleigh List checks every day.</p>')+'</div>';
-      document.getElementById('c').onchange=function(e){country=e.target.value;render();};
-    }
-    render();
-  }).catch(function(){ fail('Couldn\'t load the movie list. Please try again.'); });
+      document.getElementById('c').onchange=function(e){country=e.target.value;show(country);};
+    }).catch(function(){ fail('Couldn\'t load the movie. Please try again.'); });
+  }
+  show(country);
 })();
 </script>
 </body>
