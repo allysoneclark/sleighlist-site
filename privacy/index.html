@@ -12,7 +12,7 @@
 <nav><a href="/">Home</a><a href="/support/">Support</a><a href="/privacy/">Privacy</a></nav>
 <div class="card">
 <h1>Privacy Policy</h1>
-<p class="note">Last updated: November 10, 2026</p>
+<p class="note">Last updated: November 13, 2026</p>
 
 <p>Sleigh List is made by Allyson Clark, an independent developer (“we”, “us”). This policy explains what the Sleigh List app and this website collect, why, and the choices you have. The short version: no ads, no tracking, no selling data. We keep only what the app needs to save your list and your season pass.</p>
 
@@ -24,17 +24,17 @@
 <p><strong>Backup with Sign in with Apple (optional).</strong> If you back up your list, we receive an identifier from Apple and, if you choose to share it, your email address. If you choose “Hide My Email”, we receive a private relay address from Apple instead. We use these only to sign you in and restore your list. We also keep a token Apple issues at sign-in, used only to cancel your Sign in with Apple authorization if you delete your account. We do not send you marketing email.</p>
 <p><strong>On your phone only.</strong> Your country setting and the streaming services you pick in filters are stored on your device and are not sent to us.</p>
 <p><strong>Anonymous usage stats.</strong> To see whether Sleigh List is working, the app counts a few events: first opening the app, opening it again (and how many days after installing), viewing the season pass screen, reaching the free limit, tapping buy, completing a purchase, and starting the free trial. These are sent to our own database with a random install ID that is not linked to your account, your Apple ID, your list or any advertising ID. We use them only as totals. You can turn this off at any time in Settings → Share anonymous usage stats. Turning it off stops new stats from being sent. Stats already sent can’t be traced back to you, so they can’t be picked out and deleted; they are deleted automatically after 2 years.</p>
-<p><strong>Sharing a movie.</strong> When you share a movie, the app opens your phone's share sheet with a short message and a sleighlist.app link. We don't see who you share it with. The page that link opens shows the movie from the public movie list on this website, uses your browser's language setting to guess which country's streaming services to show, and sets no cookies.</p>
+<p><strong>Sharing a movie.</strong> When you share a movie, the app opens your phone's share sheet with a short message and a sleighlist.app link. We don't see who you share it with. The page that link opens loads that movie's details from our server (Supabase), uses your browser's language setting to guess which country's streaming services to show, and sets no cookies.</p>
 <p><strong>No advertising or tracking.</strong> The app has no ads, no advertising IDs and no third-party analytics or tracking tools, and does not track you across other apps or websites.</p>
 
 <h2>Services that help run Sleigh List</h2>
 <ul>
-<li><strong>Supabase</strong> stores your account and list, the anonymous usage stats, and runs the purchase check.</li>
+<li><strong>Supabase</strong> stores your account and list and the anonymous usage stats, runs the purchase check, and provides the movie list the app downloads.</li>
 <li><strong>Apple</strong> processes purchases and Sign in with Apple.</li>
-<li><strong>GitHub Pages</strong> hosts this website and the movie list file the app downloads.</li>
+<li><strong>GitHub Pages</strong> hosts this website. Older versions of the app download the movie list from it.</li>
 <li><strong>Movie of the Night</strong> (Streaming Availability API) provides streaming information and movie posters. Posters load from their servers, which therefore see your device’s IP address, as any website would. We do not send them any information about you.</li>
 </ul>
-<p>If sleighlist.app can’t be reached, the app downloads the movie list from GitHub instead, which also sees your device’s IP address. Apple receives your account ID with a purchase so it can be matched to your account.</p>
+<p>If our server can’t be reached, the app may download the public movie list from this website or from GitHub instead, which also see your device’s IP address. Apple receives your account ID with a purchase so it can be matched to your account.</p>
 <h2>Where your data is stored</h2>
 <p>Your account, list and usage stats are stored with Supabase in Frankfurt, Germany (EU). Supabase is a US company; where its staff or subprocessors outside the EU can access data, it uses the EU’s Standard Contractual Clauses.</p>
 <p>When the app opens a streaming service’s link, that service’s own privacy policy applies.</p>
