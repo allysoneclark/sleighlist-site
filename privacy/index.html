@@ -12,7 +12,7 @@
 <nav><a href="/">Home</a><a href="/support/">Support</a><a href="/privacy/">Privacy</a></nav>
 <div class="card">
 <h1>Privacy Policy</h1>
-<p class="note">Last updated: November 15, 2026</p>
+<p class="note">Last updated: November 20, 2026</p>
 
 <p>Sleigh List is made by Allyson Clark, an independent developer (“we”, “us”). This policy explains what the Sleigh List app and this website collect, why, and the choices you have. The short version: no ads, no tracking, no selling data. We keep only what the app needs to save your list and your season pass.</p>
 
@@ -25,13 +25,16 @@
 <p><strong>On your phone only.</strong> Your country setting and the streaming services you pick in filters are stored on your device and are not sent to us.</p>
 <p><strong>Anonymous usage stats.</strong> To see whether Sleigh List is working, the app counts a few events: first opening the app, opening it again (and how many days after installing), viewing the season pass screen, reaching the free limit, tapping buy, completing a purchase, starting the free trial, and tapping the Wishper link. These are sent to our own database with a random install ID that is not linked to your account, your Apple ID, your list or any advertising ID. We use them only as totals. You can turn this off at any time in Settings → Share anonymous usage stats. Turning it off stops new stats from being sent. Stats already sent can’t be traced back to you, so they can’t be picked out and deleted; they are deleted automatically after 2 years.</p>
 <p><strong>Sharing a movie.</strong> When you share a movie, the app opens your phone's share sheet with a short message and a sleighlist.app link. We don't see who you share it with. The page that link opens loads that movie's details from our server (Supabase), uses your browser's language setting to guess which country's streaming services to show, and sets no cookies.</p>
+<p><strong>Missing-movie reports.</strong> If you use “Report a missing movie”, the title you type and, if you add it, where you saw it are saved with your account so we can look for the movie and tell you in the app when it’s added. Each day our update looks the title up with Movie of the Night and, for titles that don’t say “Christmas”, asks Anthropic’s Claude whether it’s a Christmas movie; only the movie’s public details are sent, never anything about you.</p>
+<p><strong>Feedback.</strong> If you use “Send feedback”, we receive your message, the app version, your country setting and, only if you choose to add it, your email address so we can reply. It is forwarded to the developer as a private GitHub notification. Please don’t include anything sensitive.</p>
 <p><strong>No advertising or tracking.</strong> Apart from the link to Wishper (our own site), the app has no ads, no advertising IDs and no third-party analytics or tracking tools, and does not track you across other apps or websites.</p>
 
 <h2>Services that help run Sleigh List</h2>
 <ul>
 <li><strong>Supabase</strong> stores your account and list and the anonymous usage stats, runs the purchase check, and provides the movie list the app downloads.</li>
 <li><strong>Apple</strong> processes purchases and Sign in with Apple.</li>
-<li><strong>GitHub Pages</strong> hosts this website. Older versions of the app download the movie list from it.</li>
+<li><strong>GitHub</strong> hosts this website (GitHub Pages), from which older versions of the app download the movie list, and forwards in-app feedback to the developer in a private repository.</li>
+<li><strong>Anthropic</strong> (Claude) helps describe and label movies and checks whether a reported title is a Christmas movie. It receives only public movie details.</li>
 <li><strong>Movie of the Night</strong> (Streaming Availability API) provides streaming information and movie posters. Posters load from their servers, which therefore see your device’s IP address, as any website would. We do not send them any information about you.</li>
 </ul>
 <p>If our server can’t be reached, the app may download the public movie list from this website or from GitHub instead, which also see your device’s IP address. Apple receives your account ID with a purchase so it can be matched to your account.</p>
@@ -42,6 +45,7 @@
 
 <h2>How long we keep it</h2>
 <p>We keep your list for as long as your account exists, so it is still there next Christmas. Encrypted backups of the database are kept for up to 90 days, so a deleted account disappears from backups within 90 days. If an account without a season pass or a Sign in with Apple backup isn’t used for 18 months, it is deleted along with its list. If you delete your account, your list, ratings, notes and saves are deleted straight away, and your Sign in with Apple authorization is revoked. We keep the record of a purchase (transaction ID, product and date, without a link to your account) so the pass can still be restored and for our accounting records.</p>
+<p>Feedback and missing-movie reports are deleted after 2 years. Deleting your account deletes your reports straight away; feedback you sent stays, no longer linked to any account.</p>
 
 <h2>Your choices and rights</h2>
 <ul>
