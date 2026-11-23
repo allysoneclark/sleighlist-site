@@ -1,17 +1,81 @@
-:root{--bg:#0f1b2d;--card:#16263f;--ink:#f3efe6;--muted:#b9c2d0;--accent:#e8c26a;--line:#24395a}
+/* Sleigh List site: design spec (claude/sleigh-list-DESIGN.md), Newsreader for all
+   text, Bricolage Grotesque 800 for the "Sleigh List" wordmark only. Fonts are
+   self-hosted (OFL, licences in /fonts/) so visitors' browsers don't contact Google. */
+@font-face{font-family:"Newsreader";src:url(/fonts/newsreader.woff) format("woff");font-weight:200 800;font-style:normal;font-display:swap}
+@font-face{font-family:"Bricolage Wordmark";src:url(/fonts/bricolage-wordmark.woff) format("woff");font-weight:200 800;font-display:block}
+
+:root{
+  --midnight:#0F1B2D;--surface-dim:#071425;--card:#16263F;--line:#24395A;
+  --gold:#E8C26A;--gold-hover:#F3D58F;--snow:#F3EFE6;--mist:#B9C2D0;
+  /* old names, still used by the share pages (/m/, /open/) */
+  --bg:var(--midnight);--ink:var(--snow);--muted:var(--mist);--accent:var(--gold);
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:720px;margin:0 auto;padding:48px 16px 64px}
-header a{color:var(--ink);text-decoration:none}
-.brand{font-weight:800;letter-spacing:.5px;font-size:28px}
-.brand span{color:var(--accent)}
-.tag{color:var(--muted);margin-top:4px}
-nav{margin:24px 0 32px;display:flex;gap:20px;flex-wrap:wrap}
-nav a{color:var(--accent);text-decoration:none;font-weight:600}
-nav a:hover{text-decoration:underline}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:24px}
-h1{font-size:30px;line-height:1.2;margin:0 0 12px}
-h2{font-size:20px;margin:28px 0 8px}
-a{color:var(--accent)}
-.note{color:var(--muted);font-size:15px}
-footer{margin-top:40px;color:var(--muted);font-size:14px}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--midnight);color:var(--snow);font:400 18px/1.6 "Newsreader",Georgia,serif}
+a{color:var(--gold);text-underline-offset:3px}
+a:hover{color:var(--gold-hover)}
+img{max-width:100%}
+
+main{max-width:760px;margin:0 auto;padding:20px 16px 56px}
+.wide{max-width:1120px}
+
+/* header: gilded sleigh + wordmark, then the page links */
+.site-head{display:flex;align-items:center;justify-content:space-between;gap:12px 24px;flex-wrap:wrap;padding:4px 0 8px}
+header a{text-decoration:none}
+.brand{display:inline-flex;align-items:center;gap:9px;color:var(--snow);font:800 26px/1 "Bricolage Wordmark","Newsreader",sans-serif;letter-spacing:-.02em;white-space:nowrap}
+.brand img{height:26px;width:auto;display:block}
+.brand span{color:var(--gold)}
+.brand:hover{color:var(--snow)}
+nav{display:flex;gap:4px 20px;flex-wrap:wrap}
+nav a{display:inline-block;padding:10px 0;color:var(--mist);font-weight:600;font-size:17px;text-decoration:none}
+nav a:hover{color:var(--snow)}
+nav a[aria-current=page]{color:var(--gold)}
+.tag{color:var(--mist);margin:4px 0 0}
+
+h1,h2{font-variation-settings:"opsz" 72;color:var(--snow)}
+h1{font-size:34px;line-height:1.15;font-weight:700;margin:0 0 12px;letter-spacing:-.01em}
+h2{font-size:22px;line-height:1.25;font-weight:700;margin:30px 0 8px}
+.page-title{margin-top:24px}
+.site-head + .card{margin-top:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px 20px}
+.card h1{font-size:30px}
+.note{color:var(--mist);font-size:16px}
+
+/* home hero */
+.hero{text-align:center;padding:40px 0 8px}
+.hero h1{font-size:clamp(34px,8.6vw,60px);line-height:1.08;max-width:15em;margin:0 auto 18px;text-wrap:balance}
+.hero .lead{color:var(--mist);font-size:clamp(18px,2.6vw,21px);max-width:34em;margin:0 auto}
+/* Apple: badge at least 40px tall onscreen, clear space a quarter of its height,
+   unmodified, one per page, subordinate to the headline. */
+.badge{display:inline-block;margin:26px 0 6px;padding:14px;line-height:0}
+.badge img{height:54px;width:auto;display:block;object-fit:contain}
+.hero .small{color:var(--mist);font-size:15px;margin:0}
+
+.swipe-hint{display:none;text-align:center;color:var(--mist);font-size:14px;margin:6px 0 0}
+.shots{list-style:none;margin:40px 0 0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+.shots li{margin:0}
+.shots img{display:block;width:100%;height:auto;border-radius:22px;border:1px solid var(--line)}
+@media (max-width:860px){
+  /* phones and small tablets: swipe through the screenshots, next one peeking */
+  .shots{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:14px;margin:32px -16px 0;padding:0 16px 10px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .shots::-webkit-scrollbar{display:none}
+  .shots li{flex:0 0 min(68vw,300px);scroll-snap-align:center}
+  .swipe-hint{display:block}
+}
+
+
+footer{margin-top:48px;padding-top:20px;border-top:1px solid var(--line);color:var(--mist);font-size:14px;line-height:1.55}
+footer p{margin:0 0 8px}
+footer a{color:var(--mist)}
+footer a:hover{color:var(--snow)}
+
+@media (max-width:520px){
+  body{font-size:17px}
+  .brand{font-size:23px}.brand img{height:23px}
+  .site-head{padding-bottom:0}
+  nav{gap:0 18px}
+  .hero{padding-top:28px}
+  .card{padding:20px 16px}
+  .card h1{font-size:27px}
+}

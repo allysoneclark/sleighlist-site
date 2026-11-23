@@ -9,6 +9,7 @@
 <meta property="og:description" content="See where it's streaming tonight.">
 <meta property="og:site_name" content="Sleigh List">
 <meta name="apple-itunes-app" content="app-id=6830327776">
+<meta name="theme-color" content="#0F1B2D">
 <link rel="stylesheet" href="/style.css">
 <!-- Shared movie page (1.2). One page for every movie and series: the app
      shares sleighlist.app/m/?id=<id>; this page asks the Sleigh List 'movie'
@@ -32,7 +33,10 @@ select{background:var(--bg);color:var(--ink);border:1px solid var(--line);border
 </head>
 <body>
 <main>
-<header><a href="/" class="brand">Sleigh <span>List</span></a><div class="tag">Track, rate and find where to stream Christmas movies.</div></header>
+<header class="site-head">
+  <a href="/" class="brand" aria-label="Sleigh List home"><img src="/img/logo_sleigh.svg" alt="" width="58" height="25">Sleigh <span>List</span></a>
+  <nav><a href="/">Home</a><a href="/support/">Support</a><a href="/privacy/">Privacy</a></nav>
+</header>
 <div class="card" id="card" style="margin-top:28px"><p class="note">Loading…</p></div>
 <a class="cta" href="https://apps.apple.com/app/sleigh-list-christmas-movies/id6830327776">Get Sleigh List on the App Store</a>
 <p class="small">Free to download. Track what you've watched, save a holiday watchlist and see where every Christmas movie is streaming.</p>

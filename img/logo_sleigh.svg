@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 70 352 152">
+  <!-- Header mark: the app-icon sleigh without its tile, cropped tight so it sits next to the wordmark.
+       Matches the gilded app icon: see-through body, champagne gold gradient. -->
+  <defs>
+    <linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="0" y1="75" x2="40" y2="220">
+      <stop offset="0" stop-color="#FFF8DC"/>
+      <stop offset="0.3" stop-color="#F7DE97"/>
+      <stop offset="0.55" stop-color="#D4A64A"/>
+      <stop offset="0.75" stop-color="#F6D98A"/>
+      <stop offset="1" stop-color="#C9963B"/>
+    </linearGradient>
+  </defs>
+  <path d="M 20 210 C 110 210 240 210 290 210 C 330 210 350 180 340 150 C 335 135 320 130 305 138" fill="none" stroke="url(#gold)" stroke-width="20" stroke-linecap="round"/>
+  <line x1="90" y1="205" x2="105" y2="155" stroke="url(#gold)" stroke-width="16" stroke-linecap="round"/>
+  <line x1="210" y1="205" x2="225" y2="155" stroke="url(#gold)" stroke-width="16" stroke-linecap="round"/>
+  <path d="M 60 150 C 75 110 110 80 155 80 L 260 80 C 275 80 285 92 285 108 L 280 150 Z" fill="none" stroke="url(#gold)" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M 220 98 L 225.5 113 L 241 113 L 229 122 L 233.5 137 L 220 128 L 206.5 137 L 211 122 L 199 113 L 214.5 113 Z" fill="url(#gold)"/>
+</svg>

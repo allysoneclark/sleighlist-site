@@ -5,15 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-itunes-app" content="app-id=6830327776">
 <title>Privacy Policy – Sleigh List</title>
+<meta name="theme-color" content="#0F1B2D">
 <link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <main>
-<header><a href="/" class="brand">Sleigh <span>List</span></a><div class="tag">Track, rate and find where to stream Christmas movies.</div></header>
-<nav><a href="/">Home</a><a href="/support/">Support</a><a href="/privacy/">Privacy</a></nav>
+<header class="site-head">
+  <a href="/" class="brand" aria-label="Sleigh List home"><img src="/img/logo_sleigh.svg" alt="" width="58" height="25">Sleigh <span>List</span></a>
+  <nav><a href="/">Home</a><a href="/support/">Support</a><a href="/privacy/" aria-current="page">Privacy</a></nav>
+</header>
 <div class="card">
 <h1>Privacy Policy</h1>
-<p class="note">Last updated: November 20, 2026</p>
+<p class="note">Last updated: November 23, 2026</p>
 
 <p>Sleigh List is made by Allyson Clark, an independent developer (“we”, “us”). This policy explains what the Sleigh List app and this website collect, why, and the choices you have. The short version: no ads, no tracking, no selling data. We keep only what the app needs to save your list and your season pass.</p>
 
@@ -33,7 +36,7 @@
 <h2>Services that help run Sleigh List</h2>
 <ul>
 <li><strong>Supabase</strong> stores your account and list and the anonymous usage stats, runs the purchase check, and provides the movie list the app downloads.</li>
-<li><strong>Apple</strong> processes purchases and Sign in with Apple.</li>
+<li><strong>Apple</strong> processes purchases and Sign in with Apple. The “Download on the App Store” badge on our home page loads from Apple’s servers, which therefore see your device’s IP address, as any website would.</li>
 <li><strong>GitHub</strong> hosts this website (GitHub Pages), from which older versions of the app download the movie list, and forwards in-app feedback to the developer in a private repository.</li>
 <li><strong>Anthropic</strong> (Claude) helps describe and label movies and checks whether a reported title is a Christmas movie. It receives only public movie details.</li>
 <li><strong>Movie of the Night</strong> (Streaming Availability API) provides streaming information and movie posters. Posters load from their servers, which therefore see your device’s IP address, as any website would. We do not send them any information about you.</li>
